@@ -1,0 +1,5840 @@
+[
+    {
+        "age": 63,
+        "trestbps": 145.0,
+        "thalch": 150.0,
+        "chol": 233.0,
+        "num": 0
+    },
+    {
+        "age": 67,
+        "trestbps": 160.0,
+        "thalch": 108.0,
+        "chol": 286.0,
+        "num": 2
+    },
+    {
+        "age": 67,
+        "trestbps": 120.0,
+        "thalch": 129.0,
+        "chol": 229.0,
+        "num": 1
+    },
+    {
+        "age": 37,
+        "trestbps": 130.0,
+        "thalch": 187.0,
+        "chol": 250.0,
+        "num": 0
+    },
+    {
+        "age": 41,
+        "trestbps": 130.0,
+        "thalch": 172.0,
+        "chol": 204.0,
+        "num": 0
+    },
+    {
+        "age": 56,
+        "trestbps": 120.0,
+        "thalch": 178.0,
+        "chol": 236.0,
+        "num": 0
+    },
+    {
+        "age": 62,
+        "trestbps": 140.0,
+        "thalch": 160.0,
+        "chol": 268.0,
+        "num": 3
+    },
+    {
+        "age": 57,
+        "trestbps": 120.0,
+        "thalch": 163.0,
+        "chol": 354.0,
+        "num": 0
+    },
+    {
+        "age": 63,
+        "trestbps": 130.0,
+        "thalch": 147.0,
+        "chol": 254.0,
+        "num": 2
+    },
+    {
+        "age": 53,
+        "trestbps": 140.0,
+        "thalch": 155.0,
+        "chol": 203.0,
+        "num": 1
+    },
+    {
+        "age": 57,
+        "trestbps": 140.0,
+        "thalch": 148.0,
+        "chol": 192.0,
+        "num": 0
+    },
+    {
+        "age": 56,
+        "trestbps": 140.0,
+        "thalch": 153.0,
+        "chol": 294.0,
+        "num": 0
+    },
+    {
+        "age": 56,
+        "trestbps": 130.0,
+        "thalch": 142.0,
+        "chol": 256.0,
+        "num": 2
+    },
+    {
+        "age": 44,
+        "trestbps": 120.0,
+        "thalch": 173.0,
+        "chol": 263.0,
+        "num": 0
+    },
+    {
+        "age": 52,
+        "trestbps": 172.0,
+        "thalch": 162.0,
+        "chol": 199.0,
+        "num": 0
+    },
+    {
+        "age": 57,
+        "trestbps": 150.0,
+        "thalch": 174.0,
+        "chol": 168.0,
+        "num": 0
+    },
+    {
+        "age": 48,
+        "trestbps": 110.0,
+        "thalch": 168.0,
+        "chol": 229.0,
+        "num": 1
+    },
+    {
+        "age": 54,
+        "trestbps": 140.0,
+        "thalch": 160.0,
+        "chol": 239.0,
+        "num": 0
+    },
+    {
+        "age": 48,
+        "trestbps": 130.0,
+        "thalch": 139.0,
+        "chol": 275.0,
+        "num": 0
+    },
+    {
+        "age": 49,
+        "trestbps": 130.0,
+        "thalch": 171.0,
+        "chol": 266.0,
+        "num": 0
+    },
+    {
+        "age": 64,
+        "trestbps": 110.0,
+        "thalch": 144.0,
+        "chol": 211.0,
+        "num": 0
+    },
+    {
+        "age": 58,
+        "trestbps": 150.0,
+        "thalch": 162.0,
+        "chol": 283.0,
+        "num": 0
+    },
+    {
+        "age": 58,
+        "trestbps": 120.0,
+        "thalch": 160.0,
+        "chol": 284.0,
+        "num": 1
+    },
+    {
+        "age": 58,
+        "trestbps": 132.0,
+        "thalch": 173.0,
+        "chol": 224.0,
+        "num": 3
+    },
+    {
+        "age": 60,
+        "trestbps": 130.0,
+        "thalch": 132.0,
+        "chol": 206.0,
+        "num": 4
+    },
+    {
+        "age": 50,
+        "trestbps": 120.0,
+        "thalch": 158.0,
+        "chol": 219.0,
+        "num": 0
+    },
+    {
+        "age": 58,
+        "trestbps": 120.0,
+        "thalch": 172.0,
+        "chol": 340.0,
+        "num": 0
+    },
+    {
+        "age": 66,
+        "trestbps": 150.0,
+        "thalch": 114.0,
+        "chol": 226.0,
+        "num": 0
+    },
+    {
+        "age": 43,
+        "trestbps": 150.0,
+        "thalch": 171.0,
+        "chol": 247.0,
+        "num": 0
+    },
+    {
+        "age": 40,
+        "trestbps": 110.0,
+        "thalch": 114.0,
+        "chol": 167.0,
+        "num": 3
+    },
+    {
+        "age": 69,
+        "trestbps": 140.0,
+        "thalch": 151.0,
+        "chol": 239.0,
+        "num": 0
+    },
+    {
+        "age": 60,
+        "trestbps": 117.0,
+        "thalch": 160.0,
+        "chol": 230.0,
+        "num": 2
+    },
+    {
+        "age": 64,
+        "trestbps": 140.0,
+        "thalch": 158.0,
+        "chol": 335.0,
+        "num": 1
+    },
+    {
+        "age": 59,
+        "trestbps": 135.0,
+        "thalch": 161.0,
+        "chol": 234.0,
+        "num": 0
+    },
+    {
+        "age": 44,
+        "trestbps": 130.0,
+        "thalch": 179.0,
+        "chol": 233.0,
+        "num": 0
+    },
+    {
+        "age": 42,
+        "trestbps": 140.0,
+        "thalch": 178.0,
+        "chol": 226.0,
+        "num": 0
+    },
+    {
+        "age": 43,
+        "trestbps": 120.0,
+        "thalch": 120.0,
+        "chol": 177.0,
+        "num": 3
+    },
+    {
+        "age": 57,
+        "trestbps": 150.0,
+        "thalch": 112.0,
+        "chol": 276.0,
+        "num": 1
+    },
+    {
+        "age": 55,
+        "trestbps": 132.0,
+        "thalch": 132.0,
+        "chol": 353.0,
+        "num": 3
+    },
+    {
+        "age": 61,
+        "trestbps": 150.0,
+        "thalch": 137.0,
+        "chol": 243.0,
+        "num": 0
+    },
+    {
+        "age": 65,
+        "trestbps": 150.0,
+        "thalch": 114.0,
+        "chol": 225.0,
+        "num": 4
+    },
+    {
+        "age": 40,
+        "trestbps": 140.0,
+        "thalch": 178.0,
+        "chol": 199.0,
+        "num": 0
+    },
+    {
+        "age": 71,
+        "trestbps": 160.0,
+        "thalch": 162.0,
+        "chol": 302.0,
+        "num": 0
+    },
+    {
+        "age": 59,
+        "trestbps": 150.0,
+        "thalch": 157.0,
+        "chol": 212.0,
+        "num": 0
+    },
+    {
+        "age": 61,
+        "trestbps": 130.0,
+        "thalch": 169.0,
+        "chol": 330.0,
+        "num": 1
+    },
+    {
+        "age": 58,
+        "trestbps": 112.0,
+        "thalch": 165.0,
+        "chol": 230.0,
+        "num": 4
+    },
+    {
+        "age": 51,
+        "trestbps": 110.0,
+        "thalch": 123.0,
+        "chol": 175.0,
+        "num": 0
+    },
+    {
+        "age": 50,
+        "trestbps": 150.0,
+        "thalch": 128.0,
+        "chol": 243.0,
+        "num": 4
+    },
+    {
+        "age": 65,
+        "trestbps": 140.0,
+        "thalch": 157.0,
+        "chol": 417.0,
+        "num": 0
+    },
+    {
+        "age": 53,
+        "trestbps": 130.0,
+        "thalch": 152.0,
+        "chol": 197.0,
+        "num": 0
+    },
+    {
+        "age": 41,
+        "trestbps": 105.0,
+        "thalch": 168.0,
+        "chol": 198.0,
+        "num": 0
+    },
+    {
+        "age": 65,
+        "trestbps": 120.0,
+        "thalch": 140.0,
+        "chol": 177.0,
+        "num": 0
+    },
+    {
+        "age": 44,
+        "trestbps": 112.0,
+        "thalch": 153.0,
+        "chol": 290.0,
+        "num": 2
+    },
+    {
+        "age": 44,
+        "trestbps": 130.0,
+        "thalch": 188.0,
+        "chol": 219.0,
+        "num": 0
+    },
+    {
+        "age": 60,
+        "trestbps": 130.0,
+        "thalch": 144.0,
+        "chol": 253.0,
+        "num": 1
+    },
+    {
+        "age": 54,
+        "trestbps": 124.0,
+        "thalch": 109.0,
+        "chol": 266.0,
+        "num": 1
+    },
+    {
+        "age": 50,
+        "trestbps": 140.0,
+        "thalch": 163.0,
+        "chol": 233.0,
+        "num": 1
+    },
+    {
+        "age": 41,
+        "trestbps": 110.0,
+        "thalch": 158.0,
+        "chol": 172.0,
+        "num": 1
+    },
+    {
+        "age": 54,
+        "trestbps": 125.0,
+        "thalch": 152.0,
+        "chol": 273.0,
+        "num": 0
+    },
+    {
+        "age": 51,
+        "trestbps": 125.0,
+        "thalch": 125.0,
+        "chol": 213.0,
+        "num": 0
+    },
+    {
+        "age": 51,
+        "trestbps": 130.0,
+        "thalch": 142.0,
+        "chol": 305.0,
+        "num": 2
+    },
+    {
+        "age": 46,
+        "trestbps": 142.0,
+        "thalch": 160.0,
+        "chol": 177.0,
+        "num": 0
+    },
+    {
+        "age": 58,
+        "trestbps": 128.0,
+        "thalch": 131.0,
+        "chol": 216.0,
+        "num": 1
+    },
+    {
+        "age": 54,
+        "trestbps": 135.0,
+        "thalch": 170.0,
+        "chol": 304.0,
+        "num": 0
+    },
+    {
+        "age": 54,
+        "trestbps": 120.0,
+        "thalch": 113.0,
+        "chol": 188.0,
+        "num": 2
+    },
+    {
+        "age": 60,
+        "trestbps": 145.0,
+        "thalch": 142.0,
+        "chol": 282.0,
+        "num": 2
+    },
+    {
+        "age": 60,
+        "trestbps": 140.0,
+        "thalch": 155.0,
+        "chol": 185.0,
+        "num": 1
+    },
+    {
+        "age": 54,
+        "trestbps": 150.0,
+        "thalch": 165.0,
+        "chol": 232.0,
+        "num": 0
+    },
+    {
+        "age": 59,
+        "trestbps": 170.0,
+        "thalch": 140.0,
+        "chol": 326.0,
+        "num": 2
+    },
+    {
+        "age": 46,
+        "trestbps": 150.0,
+        "thalch": 147.0,
+        "chol": 231.0,
+        "num": 1
+    },
+    {
+        "age": 65,
+        "trestbps": 155.0,
+        "thalch": 148.0,
+        "chol": 269.0,
+        "num": 0
+    },
+    {
+        "age": 67,
+        "trestbps": 125.0,
+        "thalch": 163.0,
+        "chol": 254.0,
+        "num": 3
+    },
+    {
+        "age": 62,
+        "trestbps": 120.0,
+        "thalch": 99.0,
+        "chol": 267.0,
+        "num": 1
+    },
+    {
+        "age": 65,
+        "trestbps": 110.0,
+        "thalch": 158.0,
+        "chol": 248.0,
+        "num": 1
+    },
+    {
+        "age": 44,
+        "trestbps": 110.0,
+        "thalch": 177.0,
+        "chol": 197.0,
+        "num": 1
+    },
+    {
+        "age": 65,
+        "trestbps": 160.0,
+        "thalch": 151.0,
+        "chol": 360.0,
+        "num": 0
+    },
+    {
+        "age": 60,
+        "trestbps": 125.0,
+        "thalch": 141.0,
+        "chol": 258.0,
+        "num": 1
+    },
+    {
+        "age": 51,
+        "trestbps": 140.0,
+        "thalch": 142.0,
+        "chol": 308.0,
+        "num": 0
+    },
+    {
+        "age": 48,
+        "trestbps": 130.0,
+        "thalch": 180.0,
+        "chol": 245.0,
+        "num": 0
+    },
+    {
+        "age": 58,
+        "trestbps": 150.0,
+        "thalch": 111.0,
+        "chol": 270.0,
+        "num": 3
+    },
+    {
+        "age": 45,
+        "trestbps": 104.0,
+        "thalch": 148.0,
+        "chol": 208.0,
+        "num": 0
+    },
+    {
+        "age": 53,
+        "trestbps": 130.0,
+        "thalch": 143.0,
+        "chol": 264.0,
+        "num": 0
+    },
+    {
+        "age": 39,
+        "trestbps": 140.0,
+        "thalch": 182.0,
+        "chol": 321.0,
+        "num": 0
+    },
+    {
+        "age": 68,
+        "trestbps": 180.0,
+        "thalch": 150.0,
+        "chol": 274.0,
+        "num": 3
+    },
+    {
+        "age": 52,
+        "trestbps": 120.0,
+        "thalch": 172.0,
+        "chol": 325.0,
+        "num": 0
+    },
+    {
+        "age": 44,
+        "trestbps": 140.0,
+        "thalch": 180.0,
+        "chol": 235.0,
+        "num": 0
+    },
+    {
+        "age": 47,
+        "trestbps": 138.0,
+        "thalch": 156.0,
+        "chol": 257.0,
+        "num": 0
+    },
+    {
+        "age": 53,
+        "trestbps": 128.0,
+        "thalch": 115.0,
+        "chol": 216.0,
+        "num": 0
+    },
+    {
+        "age": 53,
+        "trestbps": 138.0,
+        "thalch": 160.0,
+        "chol": 234.0,
+        "num": 0
+    },
+    {
+        "age": 51,
+        "trestbps": 130.0,
+        "thalch": 149.0,
+        "chol": 256.0,
+        "num": 0
+    },
+    {
+        "age": 66,
+        "trestbps": 120.0,
+        "thalch": 151.0,
+        "chol": 302.0,
+        "num": 0
+    },
+    {
+        "age": 62,
+        "trestbps": 160.0,
+        "thalch": 145.0,
+        "chol": 164.0,
+        "num": 3
+    },
+    {
+        "age": 62,
+        "trestbps": 130.0,
+        "thalch": 146.0,
+        "chol": 231.0,
+        "num": 0
+    },
+    {
+        "age": 44,
+        "trestbps": 108.0,
+        "thalch": 175.0,
+        "chol": 141.0,
+        "num": 0
+    },
+    {
+        "age": 63,
+        "trestbps": 135.0,
+        "thalch": 172.0,
+        "chol": 252.0,
+        "num": 0
+    },
+    {
+        "age": 52,
+        "trestbps": 128.0,
+        "thalch": 161.0,
+        "chol": 255.0,
+        "num": 1
+    },
+    {
+        "age": 59,
+        "trestbps": 110.0,
+        "thalch": 142.0,
+        "chol": 239.0,
+        "num": 2
+    },
+    {
+        "age": 60,
+        "trestbps": 150.0,
+        "thalch": 157.0,
+        "chol": 258.0,
+        "num": 3
+    },
+    {
+        "age": 52,
+        "trestbps": 134.0,
+        "thalch": 158.0,
+        "chol": 201.0,
+        "num": 0
+    },
+    {
+        "age": 48,
+        "trestbps": 122.0,
+        "thalch": 186.0,
+        "chol": 222.0,
+        "num": 0
+    },
+    {
+        "age": 45,
+        "trestbps": 115.0,
+        "thalch": 185.0,
+        "chol": 260.0,
+        "num": 0
+    },
+    {
+        "age": 34,
+        "trestbps": 118.0,
+        "thalch": 174.0,
+        "chol": 182.0,
+        "num": 0
+    },
+    {
+        "age": 57,
+        "trestbps": 128.0,
+        "thalch": 159.0,
+        "chol": 303.0,
+        "num": 0
+    },
+    {
+        "age": 71,
+        "trestbps": 110.0,
+        "thalch": 130.0,
+        "chol": 265.0,
+        "num": 0
+    },
+    {
+        "age": 49,
+        "trestbps": 120.0,
+        "thalch": 139.0,
+        "chol": 188.0,
+        "num": 3
+    },
+    {
+        "age": 54,
+        "trestbps": 108.0,
+        "thalch": 156.0,
+        "chol": 309.0,
+        "num": 0
+    },
+    {
+        "age": 59,
+        "trestbps": 140.0,
+        "thalch": 162.0,
+        "chol": 177.0,
+        "num": 2
+    },
+    {
+        "age": 57,
+        "trestbps": 128.0,
+        "thalch": 150.0,
+        "chol": 229.0,
+        "num": 1
+    },
+    {
+        "age": 61,
+        "trestbps": 120.0,
+        "thalch": 140.0,
+        "chol": 260.0,
+        "num": 2
+    },
+    {
+        "age": 39,
+        "trestbps": 118.0,
+        "thalch": 140.0,
+        "chol": 219.0,
+        "num": 3
+    },
+    {
+        "age": 61,
+        "trestbps": 145.0,
+        "thalch": 146.0,
+        "chol": 307.0,
+        "num": 1
+    },
+    {
+        "age": 56,
+        "trestbps": 125.0,
+        "thalch": 144.0,
+        "chol": 249.0,
+        "num": 1
+    },
+    {
+        "age": 52,
+        "trestbps": 118.0,
+        "thalch": 190.0,
+        "chol": 186.0,
+        "num": 0
+    },
+    {
+        "age": 43,
+        "trestbps": 132.0,
+        "thalch": 136.0,
+        "chol": 341.0,
+        "num": 2
+    },
+    {
+        "age": 62,
+        "trestbps": 130.0,
+        "thalch": 97.0,
+        "chol": 263.0,
+        "num": 2
+    },
+    {
+        "age": 41,
+        "trestbps": 135.0,
+        "thalch": 132.0,
+        "chol": 203.0,
+        "num": 0
+    },
+    {
+        "age": 58,
+        "trestbps": 140.0,
+        "thalch": 165.0,
+        "chol": 211.0,
+        "num": 0
+    },
+    {
+        "age": 35,
+        "trestbps": 138.0,
+        "thalch": 182.0,
+        "chol": 183.0,
+        "num": 0
+    },
+    {
+        "age": 63,
+        "trestbps": 130.0,
+        "thalch": 132.0,
+        "chol": 330.0,
+        "num": 3
+    },
+    {
+        "age": 65,
+        "trestbps": 135.0,
+        "thalch": 127.0,
+        "chol": 254.0,
+        "num": 2
+    },
+    {
+        "age": 48,
+        "trestbps": 130.0,
+        "thalch": 150.0,
+        "chol": 256.0,
+        "num": 3
+    },
+    {
+        "age": 63,
+        "trestbps": 150.0,
+        "thalch": 154.0,
+        "chol": 407.0,
+        "num": 4
+    },
+    {
+        "age": 51,
+        "trestbps": 100.0,
+        "thalch": 143.0,
+        "chol": 222.0,
+        "num": 0
+    },
+    {
+        "age": 55,
+        "trestbps": 140.0,
+        "thalch": 111.0,
+        "chol": 217.0,
+        "num": 3
+    },
+    {
+        "age": 65,
+        "trestbps": 138.0,
+        "thalch": 174.0,
+        "chol": 282.0,
+        "num": 1
+    },
+    {
+        "age": 45,
+        "trestbps": 130.0,
+        "thalch": 175.0,
+        "chol": 234.0,
+        "num": 0
+    },
+    {
+        "age": 56,
+        "trestbps": 200.0,
+        "thalch": 133.0,
+        "chol": 288.0,
+        "num": 3
+    },
+    {
+        "age": 54,
+        "trestbps": 110.0,
+        "thalch": 126.0,
+        "chol": 239.0,
+        "num": 3
+    },
+    {
+        "age": 44,
+        "trestbps": 120.0,
+        "thalch": 170.0,
+        "chol": 220.0,
+        "num": 0
+    },
+    {
+        "age": 62,
+        "trestbps": 124.0,
+        "thalch": 163.0,
+        "chol": 209.0,
+        "num": 0
+    },
+    {
+        "age": 54,
+        "trestbps": 120.0,
+        "thalch": 147.0,
+        "chol": 258.0,
+        "num": 0
+    },
+    {
+        "age": 51,
+        "trestbps": 94.0,
+        "thalch": 154.0,
+        "chol": 227.0,
+        "num": 0
+    },
+    {
+        "age": 29,
+        "trestbps": 130.0,
+        "thalch": 202.0,
+        "chol": 204.0,
+        "num": 0
+    },
+    {
+        "age": 51,
+        "trestbps": 140.0,
+        "thalch": 186.0,
+        "chol": 261.0,
+        "num": 0
+    },
+    {
+        "age": 43,
+        "trestbps": 122.0,
+        "thalch": 165.0,
+        "chol": 213.0,
+        "num": 0
+    },
+    {
+        "age": 55,
+        "trestbps": 135.0,
+        "thalch": 161.0,
+        "chol": 250.0,
+        "num": 0
+    },
+    {
+        "age": 70,
+        "trestbps": 145.0,
+        "thalch": 125.0,
+        "chol": 174.0,
+        "num": 4
+    },
+    {
+        "age": 62,
+        "trestbps": 120.0,
+        "thalch": 103.0,
+        "chol": 281.0,
+        "num": 3
+    },
+    {
+        "age": 35,
+        "trestbps": 120.0,
+        "thalch": 130.0,
+        "chol": 198.0,
+        "num": 1
+    },
+    {
+        "age": 51,
+        "trestbps": 125.0,
+        "thalch": 166.0,
+        "chol": 245.0,
+        "num": 0
+    },
+    {
+        "age": 59,
+        "trestbps": 140.0,
+        "thalch": 164.0,
+        "chol": 221.0,
+        "num": 0
+    },
+    {
+        "age": 59,
+        "trestbps": 170.0,
+        "thalch": 159.0,
+        "chol": 288.0,
+        "num": 1
+    },
+    {
+        "age": 52,
+        "trestbps": 128.0,
+        "thalch": 184.0,
+        "chol": 205.0,
+        "num": 0
+    },
+    {
+        "age": 64,
+        "trestbps": 125.0,
+        "thalch": 131.0,
+        "chol": 309.0,
+        "num": 1
+    },
+    {
+        "age": 58,
+        "trestbps": 105.0,
+        "thalch": 154.0,
+        "chol": 240.0,
+        "num": 0
+    },
+    {
+        "age": 47,
+        "trestbps": 108.0,
+        "thalch": 152.0,
+        "chol": 243.0,
+        "num": 1
+    },
+    {
+        "age": 57,
+        "trestbps": 165.0,
+        "thalch": 124.0,
+        "chol": 289.0,
+        "num": 4
+    },
+    {
+        "age": 41,
+        "trestbps": 112.0,
+        "thalch": 179.0,
+        "chol": 250.0,
+        "num": 0
+    },
+    {
+        "age": 45,
+        "trestbps": 128.0,
+        "thalch": 170.0,
+        "chol": 308.0,
+        "num": 0
+    },
+    {
+        "age": 60,
+        "trestbps": 102.0,
+        "thalch": 160.0,
+        "chol": 318.0,
+        "num": 0
+    },
+    {
+        "age": 52,
+        "trestbps": 152.0,
+        "thalch": 178.0,
+        "chol": 298.0,
+        "num": 0
+    },
+    {
+        "age": 42,
+        "trestbps": 102.0,
+        "thalch": 122.0,
+        "chol": 265.0,
+        "num": 0
+    },
+    {
+        "age": 67,
+        "trestbps": 115.0,
+        "thalch": 160.0,
+        "chol": 564.0,
+        "num": 0
+    },
+    {
+        "age": 55,
+        "trestbps": 160.0,
+        "thalch": 145.0,
+        "chol": 289.0,
+        "num": 4
+    },
+    {
+        "age": 64,
+        "trestbps": 120.0,
+        "thalch": 96.0,
+        "chol": 246.0,
+        "num": 3
+    },
+    {
+        "age": 70,
+        "trestbps": 130.0,
+        "thalch": 109.0,
+        "chol": 322.0,
+        "num": 1
+    },
+    {
+        "age": 51,
+        "trestbps": 140.0,
+        "thalch": 173.0,
+        "chol": 299.0,
+        "num": 1
+    },
+    {
+        "age": 58,
+        "trestbps": 125.0,
+        "thalch": 171.0,
+        "chol": 300.0,
+        "num": 1
+    },
+    {
+        "age": 60,
+        "trestbps": 140.0,
+        "thalch": 170.0,
+        "chol": 293.0,
+        "num": 2
+    },
+    {
+        "age": 68,
+        "trestbps": 118.0,
+        "thalch": 151.0,
+        "chol": 277.0,
+        "num": 0
+    },
+    {
+        "age": 46,
+        "trestbps": 101.0,
+        "thalch": 156.0,
+        "chol": 197.0,
+        "num": 0
+    },
+    {
+        "age": 77,
+        "trestbps": 125.0,
+        "thalch": 162.0,
+        "chol": 304.0,
+        "num": 4
+    },
+    {
+        "age": 54,
+        "trestbps": 110.0,
+        "thalch": 158.0,
+        "chol": 214.0,
+        "num": 0
+    },
+    {
+        "age": 58,
+        "trestbps": 100.0,
+        "thalch": 122.0,
+        "chol": 248.0,
+        "num": 0
+    },
+    {
+        "age": 48,
+        "trestbps": 124.0,
+        "thalch": 175.0,
+        "chol": 255.0,
+        "num": 0
+    },
+    {
+        "age": 57,
+        "trestbps": 132.0,
+        "thalch": 168.0,
+        "chol": 207.0,
+        "num": 0
+    },
+    {
+        "age": 52,
+        "trestbps": 138.0,
+        "thalch": 169.0,
+        "chol": 223.0,
+        "num": 0
+    },
+    {
+        "age": 54,
+        "trestbps": 132.0,
+        "thalch": 159.0,
+        "chol": 288.0,
+        "num": 0
+    },
+    {
+        "age": 35,
+        "trestbps": 126.0,
+        "thalch": 156.0,
+        "chol": 282.0,
+        "num": 1
+    },
+    {
+        "age": 45,
+        "trestbps": 112.0,
+        "thalch": 138.0,
+        "chol": 160.0,
+        "num": 0
+    },
+    {
+        "age": 70,
+        "trestbps": 160.0,
+        "thalch": 112.0,
+        "chol": 269.0,
+        "num": 3
+    },
+    {
+        "age": 53,
+        "trestbps": 142.0,
+        "thalch": 111.0,
+        "chol": 226.0,
+        "num": 0
+    },
+    {
+        "age": 59,
+        "trestbps": 174.0,
+        "thalch": 143.0,
+        "chol": 249.0,
+        "num": 1
+    },
+    {
+        "age": 62,
+        "trestbps": 140.0,
+        "thalch": 157.0,
+        "chol": 394.0,
+        "num": 0
+    },
+    {
+        "age": 64,
+        "trestbps": 145.0,
+        "thalch": 132.0,
+        "chol": 212.0,
+        "num": 4
+    },
+    {
+        "age": 57,
+        "trestbps": 152.0,
+        "thalch": 88.0,
+        "chol": 274.0,
+        "num": 1
+    },
+    {
+        "age": 52,
+        "trestbps": 108.0,
+        "thalch": 147.0,
+        "chol": 233.0,
+        "num": 0
+    },
+    {
+        "age": 56,
+        "trestbps": 132.0,
+        "thalch": 105.0,
+        "chol": 184.0,
+        "num": 1
+    },
+    {
+        "age": 43,
+        "trestbps": 130.0,
+        "thalch": 162.0,
+        "chol": 315.0,
+        "num": 0
+    },
+    {
+        "age": 53,
+        "trestbps": 130.0,
+        "thalch": 173.0,
+        "chol": 246.0,
+        "num": 0
+    },
+    {
+        "age": 48,
+        "trestbps": 124.0,
+        "thalch": 166.0,
+        "chol": 274.0,
+        "num": 3
+    },
+    {
+        "age": 56,
+        "trestbps": 134.0,
+        "thalch": 150.0,
+        "chol": 409.0,
+        "num": 2
+    },
+    {
+        "age": 42,
+        "trestbps": 148.0,
+        "thalch": 178.0,
+        "chol": 244.0,
+        "num": 0
+    },
+    {
+        "age": 59,
+        "trestbps": 178.0,
+        "thalch": 145.0,
+        "chol": 270.0,
+        "num": 0
+    },
+    {
+        "age": 60,
+        "trestbps": 158.0,
+        "thalch": 161.0,
+        "chol": 305.0,
+        "num": 1
+    },
+    {
+        "age": 63,
+        "trestbps": 140.0,
+        "thalch": 179.0,
+        "chol": 195.0,
+        "num": 0
+    },
+    {
+        "age": 42,
+        "trestbps": 120.0,
+        "thalch": 194.0,
+        "chol": 240.0,
+        "num": 0
+    },
+    {
+        "age": 66,
+        "trestbps": 160.0,
+        "thalch": 120.0,
+        "chol": 246.0,
+        "num": 2
+    },
+    {
+        "age": 54,
+        "trestbps": 192.0,
+        "thalch": 195.0,
+        "chol": 283.0,
+        "num": 1
+    },
+    {
+        "age": 69,
+        "trestbps": 140.0,
+        "thalch": 146.0,
+        "chol": 254.0,
+        "num": 2
+    },
+    {
+        "age": 50,
+        "trestbps": 129.0,
+        "thalch": 163.0,
+        "chol": 196.0,
+        "num": 0
+    },
+    {
+        "age": 51,
+        "trestbps": 140.0,
+        "thalch": 122.0,
+        "chol": 298.0,
+        "num": 3
+    },
+    {
+        "age": 43,
+        "trestbps": 132.0,
+        "thalch": 143.0,
+        "chol": 247.0,
+        "num": 1
+    },
+    {
+        "age": 62,
+        "trestbps": 138.0,
+        "thalch": 106.0,
+        "chol": 294.0,
+        "num": 2
+    },
+    {
+        "age": 68,
+        "trestbps": 120.0,
+        "thalch": 115.0,
+        "chol": 211.0,
+        "num": 0
+    },
+    {
+        "age": 67,
+        "trestbps": 100.0,
+        "thalch": 125.0,
+        "chol": 299.0,
+        "num": 3
+    },
+    {
+        "age": 69,
+        "trestbps": 160.0,
+        "thalch": 131.0,
+        "chol": 234.0,
+        "num": 0
+    },
+    {
+        "age": 45,
+        "trestbps": 138.0,
+        "thalch": 152.0,
+        "chol": 236.0,
+        "num": 0
+    },
+    {
+        "age": 50,
+        "trestbps": 120.0,
+        "thalch": 162.0,
+        "chol": 244.0,
+        "num": 0
+    },
+    {
+        "age": 59,
+        "trestbps": 160.0,
+        "thalch": 125.0,
+        "chol": 273.0,
+        "num": 1
+    },
+    {
+        "age": 50,
+        "trestbps": 110.0,
+        "thalch": 159.0,
+        "chol": 254.0,
+        "num": 0
+    },
+    {
+        "age": 64,
+        "trestbps": 180.0,
+        "thalch": 154.0,
+        "chol": 325.0,
+        "num": 0
+    },
+    {
+        "age": 57,
+        "trestbps": 150.0,
+        "thalch": 173.0,
+        "chol": 126.0,
+        "num": 0
+    },
+    {
+        "age": 64,
+        "trestbps": 140.0,
+        "thalch": 133.0,
+        "chol": 313.0,
+        "num": 0
+    },
+    {
+        "age": 43,
+        "trestbps": 110.0,
+        "thalch": 161.0,
+        "chol": 211.0,
+        "num": 0
+    },
+    {
+        "age": 45,
+        "trestbps": 142.0,
+        "thalch": 147.0,
+        "chol": 309.0,
+        "num": 3
+    },
+    {
+        "age": 58,
+        "trestbps": 128.0,
+        "thalch": 130.0,
+        "chol": 259.0,
+        "num": 3
+    },
+    {
+        "age": 50,
+        "trestbps": 144.0,
+        "thalch": 126.0,
+        "chol": 200.0,
+        "num": 3
+    },
+    {
+        "age": 55,
+        "trestbps": 130.0,
+        "thalch": 155.0,
+        "chol": 262.0,
+        "num": 0
+    },
+    {
+        "age": 62,
+        "trestbps": 150.0,
+        "thalch": 154.0,
+        "chol": 244.0,
+        "num": 1
+    },
+    {
+        "age": 37,
+        "trestbps": 120.0,
+        "thalch": 170.0,
+        "chol": 215.0,
+        "num": 0
+    },
+    {
+        "age": 38,
+        "trestbps": 120.0,
+        "thalch": 182.0,
+        "chol": 231.0,
+        "num": 4
+    },
+    {
+        "age": 41,
+        "trestbps": 130.0,
+        "thalch": 168.0,
+        "chol": 214.0,
+        "num": 0
+    },
+    {
+        "age": 66,
+        "trestbps": 178.0,
+        "thalch": 165.0,
+        "chol": 228.0,
+        "num": 3
+    },
+    {
+        "age": 52,
+        "trestbps": 112.0,
+        "thalch": 160.0,
+        "chol": 230.0,
+        "num": 1
+    },
+    {
+        "age": 56,
+        "trestbps": 120.0,
+        "thalch": 162.0,
+        "chol": 193.0,
+        "num": 0
+    },
+    {
+        "age": 46,
+        "trestbps": 105.0,
+        "thalch": 172.0,
+        "chol": 204.0,
+        "num": 0
+    },
+    {
+        "age": 46,
+        "trestbps": 138.0,
+        "thalch": 152.0,
+        "chol": 243.0,
+        "num": 0
+    },
+    {
+        "age": 64,
+        "trestbps": 130.0,
+        "thalch": 122.0,
+        "chol": 303.0,
+        "num": 0
+    },
+    {
+        "age": 59,
+        "trestbps": 138.0,
+        "thalch": 182.0,
+        "chol": 271.0,
+        "num": 0
+    },
+    {
+        "age": 41,
+        "trestbps": 112.0,
+        "thalch": 172.0,
+        "chol": 268.0,
+        "num": 0
+    },
+    {
+        "age": 54,
+        "trestbps": 108.0,
+        "thalch": 167.0,
+        "chol": 267.0,
+        "num": 0
+    },
+    {
+        "age": 39,
+        "trestbps": 94.0,
+        "thalch": 179.0,
+        "chol": 199.0,
+        "num": 0
+    },
+    {
+        "age": 53,
+        "trestbps": 123.0,
+        "thalch": 95.0,
+        "chol": 282.0,
+        "num": 3
+    },
+    {
+        "age": 63,
+        "trestbps": 108.0,
+        "thalch": 169.0,
+        "chol": 269.0,
+        "num": 1
+    },
+    {
+        "age": 34,
+        "trestbps": 118.0,
+        "thalch": 192.0,
+        "chol": 210.0,
+        "num": 0
+    },
+    {
+        "age": 47,
+        "trestbps": 112.0,
+        "thalch": 143.0,
+        "chol": 204.0,
+        "num": 0
+    },
+    {
+        "age": 67,
+        "trestbps": 152.0,
+        "thalch": 172.0,
+        "chol": 277.0,
+        "num": 0
+    },
+    {
+        "age": 54,
+        "trestbps": 110.0,
+        "thalch": 108.0,
+        "chol": 206.0,
+        "num": 3
+    },
+    {
+        "age": 66,
+        "trestbps": 112.0,
+        "thalch": 132.0,
+        "chol": 212.0,
+        "num": 2
+    },
+    {
+        "age": 52,
+        "trestbps": 136.0,
+        "thalch": 169.0,
+        "chol": 196.0,
+        "num": 0
+    },
+    {
+        "age": 55,
+        "trestbps": 180.0,
+        "thalch": 117.0,
+        "chol": 327.0,
+        "num": 2
+    },
+    {
+        "age": 49,
+        "trestbps": 118.0,
+        "thalch": 126.0,
+        "chol": 149.0,
+        "num": 1
+    },
+    {
+        "age": 74,
+        "trestbps": 120.0,
+        "thalch": 121.0,
+        "chol": 269.0,
+        "num": 0
+    },
+    {
+        "age": 54,
+        "trestbps": 160.0,
+        "thalch": 163.0,
+        "chol": 201.0,
+        "num": 0
+    },
+    {
+        "age": 54,
+        "trestbps": 122.0,
+        "thalch": 116.0,
+        "chol": 286.0,
+        "num": 3
+    },
+    {
+        "age": 56,
+        "trestbps": 130.0,
+        "thalch": 103.0,
+        "chol": 283.0,
+        "num": 2
+    },
+    {
+        "age": 46,
+        "trestbps": 120.0,
+        "thalch": 144.0,
+        "chol": 249.0,
+        "num": 1
+    },
+    {
+        "age": 49,
+        "trestbps": 134.0,
+        "thalch": 162.0,
+        "chol": 271.0,
+        "num": 0
+    },
+    {
+        "age": 42,
+        "trestbps": 120.0,
+        "thalch": 162.0,
+        "chol": 295.0,
+        "num": 0
+    },
+    {
+        "age": 41,
+        "trestbps": 110.0,
+        "thalch": 153.0,
+        "chol": 235.0,
+        "num": 0
+    },
+    {
+        "age": 41,
+        "trestbps": 126.0,
+        "thalch": 163.0,
+        "chol": 306.0,
+        "num": 0
+    },
+    {
+        "age": 49,
+        "trestbps": 130.0,
+        "thalch": 163.0,
+        "chol": 269.0,
+        "num": 0
+    },
+    {
+        "age": 61,
+        "trestbps": 134.0,
+        "thalch": 145.0,
+        "chol": 234.0,
+        "num": 2
+    },
+    {
+        "age": 60,
+        "trestbps": 120.0,
+        "thalch": 96.0,
+        "chol": 178.0,
+        "num": 0
+    },
+    {
+        "age": 67,
+        "trestbps": 120.0,
+        "thalch": 71.0,
+        "chol": 237.0,
+        "num": 2
+    },
+    {
+        "age": 58,
+        "trestbps": 100.0,
+        "thalch": 156.0,
+        "chol": 234.0,
+        "num": 2
+    },
+    {
+        "age": 47,
+        "trestbps": 110.0,
+        "thalch": 118.0,
+        "chol": 275.0,
+        "num": 1
+    },
+    {
+        "age": 52,
+        "trestbps": 125.0,
+        "thalch": 168.0,
+        "chol": 212.0,
+        "num": 3
+    },
+    {
+        "age": 62,
+        "trestbps": 128.0,
+        "thalch": 140.0,
+        "chol": 208.0,
+        "num": 0
+    },
+    {
+        "age": 57,
+        "trestbps": 110.0,
+        "thalch": 126.0,
+        "chol": 201.0,
+        "num": 0
+    },
+    {
+        "age": 58,
+        "trestbps": 146.0,
+        "thalch": 105.0,
+        "chol": 218.0,
+        "num": 1
+    },
+    {
+        "age": 64,
+        "trestbps": 128.0,
+        "thalch": 105.0,
+        "chol": 263.0,
+        "num": 0
+    },
+    {
+        "age": 51,
+        "trestbps": 120.0,
+        "thalch": 157.0,
+        "chol": 295.0,
+        "num": 0
+    },
+    {
+        "age": 43,
+        "trestbps": 115.0,
+        "thalch": 181.0,
+        "chol": 303.0,
+        "num": 0
+    },
+    {
+        "age": 42,
+        "trestbps": 120.0,
+        "thalch": 173.0,
+        "chol": 209.0,
+        "num": 0
+    },
+    {
+        "age": 67,
+        "trestbps": 106.0,
+        "thalch": 142.0,
+        "chol": 223.0,
+        "num": 0
+    },
+    {
+        "age": 76,
+        "trestbps": 140.0,
+        "thalch": 116.0,
+        "chol": 197.0,
+        "num": 0
+    },
+    {
+        "age": 70,
+        "trestbps": 156.0,
+        "thalch": 143.0,
+        "chol": 245.0,
+        "num": 0
+    },
+    {
+        "age": 57,
+        "trestbps": 124.0,
+        "thalch": 141.0,
+        "chol": 261.0,
+        "num": 1
+    },
+    {
+        "age": 44,
+        "trestbps": 118.0,
+        "thalch": 149.0,
+        "chol": 242.0,
+        "num": 0
+    },
+    {
+        "age": 58,
+        "trestbps": 136.0,
+        "thalch": 152.0,
+        "chol": 319.0,
+        "num": 3
+    },
+    {
+        "age": 60,
+        "trestbps": 150.0,
+        "thalch": 171.0,
+        "chol": 240.0,
+        "num": 0
+    },
+    {
+        "age": 44,
+        "trestbps": 120.0,
+        "thalch": 169.0,
+        "chol": 226.0,
+        "num": 0
+    },
+    {
+        "age": 61,
+        "trestbps": 138.0,
+        "thalch": 125.0,
+        "chol": 166.0,
+        "num": 4
+    },
+    {
+        "age": 42,
+        "trestbps": 136.0,
+        "thalch": 125.0,
+        "chol": 315.0,
+        "num": 2
+    },
+    {
+        "age": 52,
+        "trestbps": 128.0,
+        "thalch": 156.0,
+        "chol": 204.0,
+        "num": 2
+    },
+    {
+        "age": 59,
+        "trestbps": 126.0,
+        "thalch": 134.0,
+        "chol": 218.0,
+        "num": 2
+    },
+    {
+        "age": 40,
+        "trestbps": 152.0,
+        "thalch": 181.0,
+        "chol": 223.0,
+        "num": 1
+    },
+    {
+        "age": 42,
+        "trestbps": 130.0,
+        "thalch": 150.0,
+        "chol": 180.0,
+        "num": 0
+    },
+    {
+        "age": 61,
+        "trestbps": 140.0,
+        "thalch": 138.0,
+        "chol": 207.0,
+        "num": 1
+    },
+    {
+        "age": 66,
+        "trestbps": 160.0,
+        "thalch": 138.0,
+        "chol": 228.0,
+        "num": 0
+    },
+    {
+        "age": 46,
+        "trestbps": 140.0,
+        "thalch": 120.0,
+        "chol": 311.0,
+        "num": 2
+    },
+    {
+        "age": 71,
+        "trestbps": 112.0,
+        "thalch": 125.0,
+        "chol": 149.0,
+        "num": 0
+    },
+    {
+        "age": 59,
+        "trestbps": 134.0,
+        "thalch": 162.0,
+        "chol": 204.0,
+        "num": 1
+    },
+    {
+        "age": 64,
+        "trestbps": 170.0,
+        "thalch": 155.0,
+        "chol": 227.0,
+        "num": 0
+    },
+    {
+        "age": 66,
+        "trestbps": 146.0,
+        "thalch": 152.0,
+        "chol": 278.0,
+        "num": 0
+    },
+    {
+        "age": 39,
+        "trestbps": 138.0,
+        "thalch": 152.0,
+        "chol": 220.0,
+        "num": 0
+    },
+    {
+        "age": 57,
+        "trestbps": 154.0,
+        "thalch": 164.0,
+        "chol": 232.0,
+        "num": 1
+    },
+    {
+        "age": 58,
+        "trestbps": 130.0,
+        "thalch": 131.0,
+        "chol": 197.0,
+        "num": 0
+    },
+    {
+        "age": 57,
+        "trestbps": 110.0,
+        "thalch": 143.0,
+        "chol": 335.0,
+        "num": 2
+    },
+    {
+        "age": 47,
+        "trestbps": 130.0,
+        "thalch": 179.0,
+        "chol": 253.0,
+        "num": 0
+    },
+    {
+        "age": 55,
+        "trestbps": 128.0,
+        "thalch": 130.0,
+        "chol": 205.0,
+        "num": 3
+    },
+    {
+        "age": 35,
+        "trestbps": 122.0,
+        "thalch": 174.0,
+        "chol": 192.0,
+        "num": 0
+    },
+    {
+        "age": 61,
+        "trestbps": 148.0,
+        "thalch": 161.0,
+        "chol": 203.0,
+        "num": 2
+    },
+    {
+        "age": 58,
+        "trestbps": 114.0,
+        "thalch": 140.0,
+        "chol": 318.0,
+        "num": 4
+    },
+    {
+        "age": 58,
+        "trestbps": 170.0,
+        "thalch": 146.0,
+        "chol": 225.0,
+        "num": 2
+    },
+    {
+        "age": 58,
+        "trestbps": 125.0,
+        "thalch": 144.0,
+        "chol": 220.0,
+        "num": 0
+    },
+    {
+        "age": 56,
+        "trestbps": 130.0,
+        "thalch": 163.0,
+        "chol": 221.0,
+        "num": 0
+    },
+    {
+        "age": 56,
+        "trestbps": 120.0,
+        "thalch": 169.0,
+        "chol": 240.0,
+        "num": 0
+    },
+    {
+        "age": 67,
+        "trestbps": 152.0,
+        "thalch": 150.0,
+        "chol": 212.0,
+        "num": 1
+    },
+    {
+        "age": 55,
+        "trestbps": 132.0,
+        "thalch": 166.0,
+        "chol": 342.0,
+        "num": 0
+    },
+    {
+        "age": 44,
+        "trestbps": 120.0,
+        "thalch": 144.0,
+        "chol": 169.0,
+        "num": 2
+    },
+    {
+        "age": 63,
+        "trestbps": 140.0,
+        "thalch": 144.0,
+        "chol": 187.0,
+        "num": 2
+    },
+    {
+        "age": 63,
+        "trestbps": 124.0,
+        "thalch": 136.0,
+        "chol": 197.0,
+        "num": 1
+    },
+    {
+        "age": 41,
+        "trestbps": 120.0,
+        "thalch": 182.0,
+        "chol": 157.0,
+        "num": 0
+    },
+    {
+        "age": 59,
+        "trestbps": 164.0,
+        "thalch": 90.0,
+        "chol": 176.0,
+        "num": 3
+    },
+    {
+        "age": 57,
+        "trestbps": 140.0,
+        "thalch": 123.0,
+        "chol": 241.0,
+        "num": 1
+    },
+    {
+        "age": 45,
+        "trestbps": 110.0,
+        "thalch": 132.0,
+        "chol": 264.0,
+        "num": 1
+    },
+    {
+        "age": 68,
+        "trestbps": 144.0,
+        "thalch": 141.0,
+        "chol": 193.0,
+        "num": 2
+    },
+    {
+        "age": 57,
+        "trestbps": 130.0,
+        "thalch": 115.0,
+        "chol": 131.0,
+        "num": 3
+    },
+    {
+        "age": 57,
+        "trestbps": 130.0,
+        "thalch": 174.0,
+        "chol": 236.0,
+        "num": 1
+    },
+    {
+        "age": 38,
+        "trestbps": 138.0,
+        "thalch": 173.0,
+        "chol": 175.0,
+        "num": 0
+    },
+    {
+        "age": 28,
+        "trestbps": 130.0,
+        "thalch": 185.0,
+        "chol": 132.0,
+        "num": 0
+    },
+    {
+        "age": 29,
+        "trestbps": 120.0,
+        "thalch": 160.0,
+        "chol": 243.0,
+        "num": 0
+    },
+    {
+        "age": 30,
+        "trestbps": 170.0,
+        "thalch": 170.0,
+        "chol": 237.0,
+        "num": 0
+    },
+    {
+        "age": 31,
+        "trestbps": 100.0,
+        "thalch": 150.0,
+        "chol": 219.0,
+        "num": 0
+    },
+    {
+        "age": 32,
+        "trestbps": 105.0,
+        "thalch": 165.0,
+        "chol": 198.0,
+        "num": 0
+    },
+    {
+        "age": 32,
+        "trestbps": 110.0,
+        "thalch": 184.0,
+        "chol": 225.0,
+        "num": 0
+    },
+    {
+        "age": 32,
+        "trestbps": 125.0,
+        "thalch": 155.0,
+        "chol": 254.0,
+        "num": 0
+    },
+    {
+        "age": 33,
+        "trestbps": 120.0,
+        "thalch": 185.0,
+        "chol": 298.0,
+        "num": 0
+    },
+    {
+        "age": 34,
+        "trestbps": 130.0,
+        "thalch": 190.0,
+        "chol": 161.0,
+        "num": 0
+    },
+    {
+        "age": 34,
+        "trestbps": 150.0,
+        "thalch": 168.0,
+        "chol": 214.0,
+        "num": 0
+    },
+    {
+        "age": 34,
+        "trestbps": 98.0,
+        "thalch": 150.0,
+        "chol": 220.0,
+        "num": 0
+    },
+    {
+        "age": 35,
+        "trestbps": 120.0,
+        "thalch": 185.0,
+        "chol": 160.0,
+        "num": 0
+    },
+    {
+        "age": 35,
+        "trestbps": 140.0,
+        "thalch": 150.0,
+        "chol": 167.0,
+        "num": 0
+    },
+    {
+        "age": 35,
+        "trestbps": 120.0,
+        "thalch": 180.0,
+        "chol": 308.0,
+        "num": 0
+    },
+    {
+        "age": 35,
+        "trestbps": 150.0,
+        "thalch": 168.0,
+        "chol": 264.0,
+        "num": 0
+    },
+    {
+        "age": 36,
+        "trestbps": 120.0,
+        "thalch": 180.0,
+        "chol": 166.0,
+        "num": 0
+    },
+    {
+        "age": 36,
+        "trestbps": 112.0,
+        "thalch": 184.0,
+        "chol": 340.0,
+        "num": 0
+    },
+    {
+        "age": 36,
+        "trestbps": 130.0,
+        "thalch": 178.0,
+        "chol": 209.0,
+        "num": 0
+    },
+    {
+        "age": 36,
+        "trestbps": 150.0,
+        "thalch": 172.0,
+        "chol": 160.0,
+        "num": 0
+    },
+    {
+        "age": 37,
+        "trestbps": 120.0,
+        "thalch": 130.0,
+        "chol": 260.0,
+        "num": 0
+    },
+    {
+        "age": 37,
+        "trestbps": 130.0,
+        "thalch": 142.0,
+        "chol": 211.0,
+        "num": 0
+    },
+    {
+        "age": 37,
+        "trestbps": 130.0,
+        "thalch": 184.0,
+        "chol": 173.0,
+        "num": 0
+    },
+    {
+        "age": 37,
+        "trestbps": 130.0,
+        "thalch": 98.0,
+        "chol": 283.0,
+        "num": 0
+    },
+    {
+        "age": 37,
+        "trestbps": 130.0,
+        "thalch": 150.0,
+        "chol": 194.0,
+        "num": 0
+    },
+    {
+        "age": 37,
+        "trestbps": 120.0,
+        "thalch": 168.0,
+        "chol": 223.0,
+        "num": 0
+    },
+    {
+        "age": 37,
+        "trestbps": 130.0,
+        "thalch": 158.0,
+        "chol": 315.0,
+        "num": 0
+    },
+    {
+        "age": 38,
+        "trestbps": 120.0,
+        "thalch": 129.0,
+        "chol": 275.0,
+        "num": 0
+    },
+    {
+        "age": 38,
+        "trestbps": 140.0,
+        "thalch": 150.0,
+        "chol": 297.0,
+        "num": 0
+    },
+    {
+        "age": 38,
+        "trestbps": 145.0,
+        "thalch": 130.0,
+        "chol": 292.0,
+        "num": 0
+    },
+    {
+        "age": 39,
+        "trestbps": 110.0,
+        "thalch": 180.0,
+        "chol": 182.0,
+        "num": 0
+    },
+    {
+        "age": 39,
+        "trestbps": 120.0,
+        "thalch": 160.0,
+        "chol": 200.0,
+        "num": 0
+    },
+    {
+        "age": 39,
+        "trestbps": 120.0,
+        "thalch": 145.0,
+        "chol": 204.0,
+        "num": 0
+    },
+    {
+        "age": 39,
+        "trestbps": 190.0,
+        "thalch": 106.0,
+        "chol": 241.0,
+        "num": 0
+    },
+    {
+        "age": 39,
+        "trestbps": 120.0,
+        "thalch": 170.0,
+        "chol": 339.0,
+        "num": 0
+    },
+    {
+        "age": 39,
+        "trestbps": 160.0,
+        "thalch": 160.0,
+        "chol": 147.0,
+        "num": 0
+    },
+    {
+        "age": 39,
+        "trestbps": 110.0,
+        "thalch": 132.0,
+        "chol": 273.0,
+        "num": 0
+    },
+    {
+        "age": 39,
+        "trestbps": 130.0,
+        "thalch": 140.0,
+        "chol": 307.0,
+        "num": 0
+    },
+    {
+        "age": 40,
+        "trestbps": 130.0,
+        "thalch": 150.0,
+        "chol": 275.0,
+        "num": 0
+    },
+    {
+        "age": 40,
+        "trestbps": 140.0,
+        "thalch": 172.0,
+        "chol": 289.0,
+        "num": 0
+    },
+    {
+        "age": 40,
+        "trestbps": 130.0,
+        "thalch": 138.0,
+        "chol": 215.0,
+        "num": 0
+    },
+    {
+        "age": 40,
+        "trestbps": 130.0,
+        "thalch": 167.0,
+        "chol": 281.0,
+        "num": 0
+    },
+    {
+        "age": 41,
+        "trestbps": 110.0,
+        "thalch": 142.0,
+        "chol": 250.0,
+        "num": 0
+    },
+    {
+        "age": 41,
+        "trestbps": 125.0,
+        "thalch": 180.0,
+        "chol": 184.0,
+        "num": 0
+    },
+    {
+        "age": 41,
+        "trestbps": 130.0,
+        "thalch": 150.0,
+        "chol": 245.0,
+        "num": 0
+    },
+    {
+        "age": 41,
+        "trestbps": 120.0,
+        "thalch": 160.0,
+        "chol": 291.0,
+        "num": 0
+    },
+    {
+        "age": 41,
+        "trestbps": 120.0,
+        "thalch": 170.0,
+        "chol": 295.0,
+        "num": 0
+    },
+    {
+        "age": 41,
+        "trestbps": 125.0,
+        "thalch": 144.0,
+        "chol": 269.0,
+        "num": 0
+    },
+    {
+        "age": 41,
+        "trestbps": 112.0,
+        "thalch": 142.0,
+        "chol": 250.0,
+        "num": 0
+    },
+    {
+        "age": 42,
+        "trestbps": 115.0,
+        "thalch": 137.0,
+        "chol": 211.0,
+        "num": 0
+    },
+    {
+        "age": 42,
+        "trestbps": 120.0,
+        "thalch": 150.0,
+        "chol": 196.0,
+        "num": 0
+    },
+    {
+        "age": 42,
+        "trestbps": 120.0,
+        "thalch": 155.0,
+        "chol": 198.0,
+        "num": 0
+    },
+    {
+        "age": 42,
+        "trestbps": 150.0,
+        "thalch": 136.0,
+        "chol": 268.0,
+        "num": 0
+    },
+    {
+        "age": 42,
+        "trestbps": 120.0,
+        "thalch": 152.0,
+        "chol": 228.0,
+        "num": 0
+    },
+    {
+        "age": 42,
+        "trestbps": 160.0,
+        "thalch": 146.0,
+        "chol": 147.0,
+        "num": 0
+    },
+    {
+        "age": 42,
+        "trestbps": 140.0,
+        "thalch": 170.0,
+        "chol": 358.0,
+        "num": 0
+    },
+    {
+        "age": 43,
+        "trestbps": 100.0,
+        "thalch": 142.0,
+        "chol": 223.0,
+        "num": 0
+    },
+    {
+        "age": 43,
+        "trestbps": 120.0,
+        "thalch": 165.0,
+        "chol": 201.0,
+        "num": 0
+    },
+    {
+        "age": 43,
+        "trestbps": 120.0,
+        "thalch": 175.0,
+        "chol": 215.0,
+        "num": 0
+    },
+    {
+        "age": 43,
+        "trestbps": 120.0,
+        "thalch": 176.0,
+        "chol": 249.0,
+        "num": 0
+    },
+    {
+        "age": 43,
+        "trestbps": 120.0,
+        "thalch": 118.0,
+        "chol": 266.0,
+        "num": 0
+    },
+    {
+        "age": 43,
+        "trestbps": 150.0,
+        "thalch": 154.0,
+        "chol": 186.0,
+        "num": 0
+    },
+    {
+        "age": 43,
+        "trestbps": 142.0,
+        "thalch": 138.0,
+        "chol": 207.0,
+        "num": 0
+    },
+    {
+        "age": 44,
+        "trestbps": 120.0,
+        "thalch": 115.0,
+        "chol": 218.0,
+        "num": 0
+    },
+    {
+        "age": 44,
+        "trestbps": 120.0,
+        "thalch": 142.0,
+        "chol": 184.0,
+        "num": 0
+    },
+    {
+        "age": 44,
+        "trestbps": 130.0,
+        "thalch": 135.0,
+        "chol": 215.0,
+        "num": 0
+    },
+    {
+        "age": 44,
+        "trestbps": 150.0,
+        "thalch": 170.0,
+        "chol": 412.0,
+        "num": 0
+    },
+    {
+        "age": 45,
+        "trestbps": 130.0,
+        "thalch": 170.0,
+        "chol": 237.0,
+        "num": 0
+    },
+    {
+        "age": 45,
+        "trestbps": 132.0,
+        "thalch": 144.0,
+        "chol": 297.0,
+        "num": 0
+    },
+    {
+        "age": 45,
+        "trestbps": 140.0,
+        "thalch": 122.0,
+        "chol": 224.0,
+        "num": 0
+    },
+    {
+        "age": 45,
+        "trestbps": 120.0,
+        "thalch": 140.0,
+        "chol": 225.0,
+        "num": 0
+    },
+    {
+        "age": 45,
+        "trestbps": 140.0,
+        "thalch": 144.0,
+        "chol": 224.0,
+        "num": 0
+    },
+    {
+        "age": 46,
+        "trestbps": 130.0,
+        "thalch": 90.0,
+        "chol": 238.0,
+        "num": 0
+    },
+    {
+        "age": 46,
+        "trestbps": 140.0,
+        "thalch": 165.0,
+        "chol": 275.0,
+        "num": 0
+    },
+    {
+        "age": 46,
+        "trestbps": 120.0,
+        "thalch": 150.0,
+        "chol": 230.0,
+        "num": 0
+    },
+    {
+        "age": 46,
+        "trestbps": 150.0,
+        "thalch": 116.0,
+        "chol": 163.0,
+        "num": 0
+    },
+    {
+        "age": 46,
+        "trestbps": 110.0,
+        "thalch": 140.0,
+        "chol": 238.0,
+        "num": 0
+    },
+    {
+        "age": 46,
+        "trestbps": 110.0,
+        "thalch": 140.0,
+        "chol": 240.0,
+        "num": 0
+    },
+    {
+        "age": 46,
+        "trestbps": 180.0,
+        "thalch": 120.0,
+        "chol": 280.0,
+        "num": 0
+    },
+    {
+        "age": 47,
+        "trestbps": 140.0,
+        "thalch": 135.0,
+        "chol": 257.0,
+        "num": 0
+    },
+    {
+        "age": 47,
+        "trestbps": 110.0,
+        "thalch": 150.0,
+        "chol": 249.0,
+        "num": 0
+    },
+    {
+        "age": 47,
+        "trestbps": 160.0,
+        "thalch": 174.0,
+        "chol": 263.0,
+        "num": 0
+    },
+    {
+        "age": 47,
+        "trestbps": 140.0,
+        "thalch": 125.0,
+        "chol": 276.0,
+        "num": 0
+    },
+    {
+        "age": 48,
+        "trestbps": 120.0,
+        "thalch": 120.0,
+        "chol": 284.0,
+        "num": 0
+    },
+    {
+        "age": 48,
+        "trestbps": 120.0,
+        "thalch": 125.0,
+        "chol": 195.0,
+        "num": 0
+    },
+    {
+        "age": 48,
+        "trestbps": 108.0,
+        "thalch": 175.0,
+        "chol": 163.0,
+        "num": 0
+    },
+    {
+        "age": 48,
+        "trestbps": 120.0,
+        "thalch": 110.0,
+        "chol": 254.0,
+        "num": 0
+    },
+    {
+        "age": 48,
+        "trestbps": 150.0,
+        "thalch": 130.0,
+        "chol": 227.0,
+        "num": 0
+    },
+    {
+        "age": 48,
+        "trestbps": 130.0,
+        "thalch": 160.0,
+        "chol": 245.0,
+        "num": 0
+    },
+    {
+        "age": 48,
+        "trestbps": 140.0,
+        "thalch": 118.0,
+        "chol": 238.0,
+        "num": 0
+    },
+    {
+        "age": 48,
+        "trestbps": 110.0,
+        "thalch": 138.0,
+        "chol": 211.0,
+        "num": 0
+    },
+    {
+        "age": 49,
+        "trestbps": 124.0,
+        "thalch": 164.0,
+        "chol": 201.0,
+        "num": 0
+    },
+    {
+        "age": 49,
+        "trestbps": 130.0,
+        "thalch": 135.0,
+        "chol": 207.0,
+        "num": 0
+    },
+    {
+        "age": 49,
+        "trestbps": 100.0,
+        "thalch": 174.0,
+        "chol": 253.0,
+        "num": 0
+    },
+    {
+        "age": 49,
+        "trestbps": 140.0,
+        "thalch": 172.0,
+        "chol": 187.0,
+        "num": 0
+    },
+    {
+        "age": 49,
+        "trestbps": 120.0,
+        "thalch": 132.0,
+        "chol": 297.0,
+        "num": 0
+    },
+    {
+        "age": 50,
+        "trestbps": 110.0,
+        "thalch": 145.0,
+        "chol": 202.0,
+        "num": 0
+    },
+    {
+        "age": 50,
+        "trestbps": 120.0,
+        "thalch": 110.0,
+        "chol": 328.0,
+        "num": 0
+    },
+    {
+        "age": 50,
+        "trestbps": 120.0,
+        "thalch": 160.0,
+        "chol": 168.0,
+        "num": 0
+    },
+    {
+        "age": 50,
+        "trestbps": 140.0,
+        "thalch": 170.0,
+        "chol": 216.0,
+        "num": 0
+    },
+    {
+        "age": 50,
+        "trestbps": 170.0,
+        "thalch": 116.0,
+        "chol": 209.0,
+        "num": 0
+    },
+    {
+        "age": 50,
+        "trestbps": 140.0,
+        "thalch": 135.0,
+        "chol": 129.0,
+        "num": 0
+    },
+    {
+        "age": 50,
+        "trestbps": 150.0,
+        "thalch": 140.0,
+        "chol": 215.0,
+        "num": 0
+    },
+    {
+        "age": 51,
+        "trestbps": 160.0,
+        "thalch": 170.0,
+        "chol": 194.0,
+        "num": 0
+    },
+    {
+        "age": 51,
+        "trestbps": 110.0,
+        "thalch": 120.0,
+        "chol": 190.0,
+        "num": 0
+    },
+    {
+        "age": 51,
+        "trestbps": 130.0,
+        "thalch": 160.0,
+        "chol": 220.0,
+        "num": 0
+    },
+    {
+        "age": 51,
+        "trestbps": 150.0,
+        "thalch": 120.0,
+        "chol": 200.0,
+        "num": 0
+    },
+    {
+        "age": 51,
+        "trestbps": 125.0,
+        "thalch": 145.0,
+        "chol": 188.0,
+        "num": 0
+    },
+    {
+        "age": 51,
+        "trestbps": 130.0,
+        "thalch": 150.0,
+        "chol": 224.0,
+        "num": 0
+    },
+    {
+        "age": 51,
+        "trestbps": 130.0,
+        "thalch": 100.0,
+        "chol": 179.0,
+        "num": 0
+    },
+    {
+        "age": 52,
+        "trestbps": 120.0,
+        "thalch": 148.0,
+        "chol": 210.0,
+        "num": 0
+    },
+    {
+        "age": 52,
+        "trestbps": 125.0,
+        "thalch": 139.0,
+        "chol": 272.0,
+        "num": 0
+    },
+    {
+        "age": 52,
+        "trestbps": 130.0,
+        "thalch": 140.0,
+        "chol": 180.0,
+        "num": 0
+    },
+    {
+        "age": 52,
+        "trestbps": 120.0,
+        "thalch": 118.0,
+        "chol": 284.0,
+        "num": 0
+    },
+    {
+        "age": 52,
+        "trestbps": 140.0,
+        "thalch": 138.0,
+        "chol": 100.0,
+        "num": 0
+    },
+    {
+        "age": 52,
+        "trestbps": 160.0,
+        "thalch": 165.0,
+        "chol": 196.0,
+        "num": 0
+    },
+    {
+        "age": 52,
+        "trestbps": 140.0,
+        "thalch": 170.0,
+        "chol": 259.0,
+        "num": 0
+    },
+    {
+        "age": 53,
+        "trestbps": 113.0,
+        "thalch": 127.0,
+        "chol": 468.0,
+        "num": 0
+    },
+    {
+        "age": 53,
+        "trestbps": 140.0,
+        "thalch": 142.0,
+        "chol": 216.0,
+        "num": 0
+    },
+    {
+        "age": 53,
+        "trestbps": 120.0,
+        "thalch": 130.0,
+        "chol": 274.0,
+        "num": 0
+    },
+    {
+        "age": 53,
+        "trestbps": 140.0,
+        "thalch": 162.0,
+        "chol": 320.0,
+        "num": 0
+    },
+    {
+        "age": 53,
+        "trestbps": 120.0,
+        "thalch": 140.0,
+        "chol": 195.0,
+        "num": 0
+    },
+    {
+        "age": 53,
+        "trestbps": 124.0,
+        "thalch": 112.0,
+        "chol": 260.0,
+        "num": 0
+    },
+    {
+        "age": 53,
+        "trestbps": 130.0,
+        "thalch": 148.0,
+        "chol": 182.0,
+        "num": 0
+    },
+    {
+        "age": 53,
+        "trestbps": 140.0,
+        "thalch": 155.0,
+        "chol": 243.0,
+        "num": 0
+    },
+    {
+        "age": 54,
+        "trestbps": 120.0,
+        "thalch": 138.0,
+        "chol": 221.0,
+        "num": 0
+    },
+    {
+        "age": 54,
+        "trestbps": 120.0,
+        "thalch": 140.0,
+        "chol": 230.0,
+        "num": 0
+    },
+    {
+        "age": 54,
+        "trestbps": 120.0,
+        "thalch": 150.0,
+        "chol": 273.0,
+        "num": 0
+    },
+    {
+        "age": 54,
+        "trestbps": 130.0,
+        "thalch": 155.0,
+        "chol": 253.0,
+        "num": 0
+    },
+    {
+        "age": 54,
+        "trestbps": 140.0,
+        "thalch": 140.0,
+        "chol": 309.0,
+        "num": 0
+    },
+    {
+        "age": 54,
+        "trestbps": 150.0,
+        "thalch": 130.0,
+        "chol": 230.0,
+        "num": 0
+    },
+    {
+        "age": 54,
+        "trestbps": 160.0,
+        "thalch": 130.0,
+        "chol": 312.0,
+        "num": 0
+    },
+    {
+        "age": 54,
+        "trestbps": 120.0,
+        "thalch": 137.0,
+        "chol": 171.0,
+        "num": 0
+    },
+    {
+        "age": 54,
+        "trestbps": 110.0,
+        "thalch": 142.0,
+        "chol": 208.0,
+        "num": 0
+    },
+    {
+        "age": 54,
+        "trestbps": 120.0,
+        "thalch": 154.0,
+        "chol": 238.0,
+        "num": 0
+    },
+    {
+        "age": 54,
+        "trestbps": 120.0,
+        "thalch": 110.0,
+        "chol": 246.0,
+        "num": 0
+    },
+    {
+        "age": 54,
+        "trestbps": 160.0,
+        "thalch": 130.0,
+        "chol": 195.0,
+        "num": 0
+    },
+    {
+        "age": 54,
+        "trestbps": 160.0,
+        "thalch": 175.0,
+        "chol": 305.0,
+        "num": 0
+    },
+    {
+        "age": 54,
+        "trestbps": 120.0,
+        "thalch": 137.0,
+        "chol": 217.0,
+        "num": 0
+    },
+    {
+        "age": 54,
+        "trestbps": 150.0,
+        "thalch": 134.0,
+        "chol": 365.0,
+        "num": 0
+    },
+    {
+        "age": 55,
+        "trestbps": 110.0,
+        "thalch": 160.0,
+        "chol": 344.0,
+        "num": 0
+    },
+    {
+        "age": 55,
+        "trestbps": 122.0,
+        "thalch": 155.0,
+        "chol": 320.0,
+        "num": 0
+    },
+    {
+        "age": 55,
+        "trestbps": 130.0,
+        "thalch": 150.0,
+        "chol": 394.0,
+        "num": 0
+    },
+    {
+        "age": 55,
+        "trestbps": 120.0,
+        "thalch": 137.0,
+        "chol": 256.0,
+        "num": 0
+    },
+    {
+        "age": 55,
+        "trestbps": 140.0,
+        "thalch": 150.0,
+        "chol": 196.0,
+        "num": 0
+    },
+    {
+        "age": 55,
+        "trestbps": 145.0,
+        "thalch": 155.0,
+        "chol": 326.0,
+        "num": 0
+    },
+    {
+        "age": 55,
+        "trestbps": 110.0,
+        "thalch": 160.0,
+        "chol": 277.0,
+        "num": 0
+    },
+    {
+        "age": 55,
+        "trestbps": 120.0,
+        "thalch": 134.0,
+        "chol": 220.0,
+        "num": 0
+    },
+    {
+        "age": 55,
+        "trestbps": 120.0,
+        "thalch": 140.0,
+        "chol": 270.0,
+        "num": 0
+    },
+    {
+        "age": 55,
+        "trestbps": 140.0,
+        "thalch": 110.0,
+        "chol": 229.0,
+        "num": 0
+    },
+    {
+        "age": 56,
+        "trestbps": 130.0,
+        "thalch": 164.0,
+        "chol": 219.0,
+        "num": 0
+    },
+    {
+        "age": 56,
+        "trestbps": 130.0,
+        "thalch": 100.0,
+        "chol": 184.0,
+        "num": 0
+    },
+    {
+        "age": 56,
+        "trestbps": 130.0,
+        "thalch": 128.0,
+        "chol": 276.0,
+        "num": 0
+    },
+    {
+        "age": 56,
+        "trestbps": 120.0,
+        "thalch": 140.0,
+        "chol": 85.0,
+        "num": 0
+    },
+    {
+        "age": 57,
+        "trestbps": 130.0,
+        "thalch": 98.0,
+        "chol": 308.0,
+        "num": 0
+    },
+    {
+        "age": 57,
+        "trestbps": 180.0,
+        "thalch": 126.0,
+        "chol": 347.0,
+        "num": 0
+    },
+    {
+        "age": 57,
+        "trestbps": 140.0,
+        "thalch": 140.0,
+        "chol": 260.0,
+        "num": 0
+    },
+    {
+        "age": 58,
+        "trestbps": 130.0,
+        "thalch": 150.0,
+        "chol": 230.0,
+        "num": 0
+    },
+    {
+        "age": 58,
+        "trestbps": 130.0,
+        "thalch": 110.0,
+        "chol": 251.0,
+        "num": 0
+    },
+    {
+        "age": 58,
+        "trestbps": 140.0,
+        "thalch": 160.0,
+        "chol": 179.0,
+        "num": 0
+    },
+    {
+        "age": 58,
+        "trestbps": 135.0,
+        "thalch": 100.0,
+        "chol": 222.0,
+        "num": 0
+    },
+    {
+        "age": 59,
+        "trestbps": 130.0,
+        "thalch": 124.0,
+        "chol": 188.0,
+        "num": 0
+    },
+    {
+        "age": 59,
+        "trestbps": 140.0,
+        "thalch": 150.0,
+        "chol": 287.0,
+        "num": 0
+    },
+    {
+        "age": 59,
+        "trestbps": 130.0,
+        "thalch": 120.0,
+        "chol": 318.0,
+        "num": 0
+    },
+    {
+        "age": 59,
+        "trestbps": 180.0,
+        "thalch": 100.0,
+        "chol": 213.0,
+        "num": 0
+    },
+    {
+        "age": 60,
+        "trestbps": 120.0,
+        "thalch": 135.0,
+        "chol": 246.0,
+        "num": 0
+    },
+    {
+        "age": 61,
+        "trestbps": 130.0,
+        "thalch": 120.0,
+        "chol": 294.0,
+        "num": 0
+    },
+    {
+        "age": 61,
+        "trestbps": 125.0,
+        "thalch": 115.0,
+        "chol": 292.0,
+        "num": 0
+    },
+    {
+        "age": 62,
+        "trestbps": 160.0,
+        "thalch": 116.0,
+        "chol": 193.0,
+        "num": 0
+    },
+    {
+        "age": 62,
+        "trestbps": 140.0,
+        "thalch": 152.0,
+        "chol": 271.0,
+        "num": 0
+    },
+    {
+        "age": 31,
+        "trestbps": 120.0,
+        "thalch": 153.0,
+        "chol": 270.0,
+        "num": 1
+    },
+    {
+        "age": 33,
+        "trestbps": 100.0,
+        "thalch": 150.0,
+        "chol": 246.0,
+        "num": 1
+    },
+    {
+        "age": 34,
+        "trestbps": 140.0,
+        "thalch": 180.0,
+        "chol": 156.0,
+        "num": 1
+    },
+    {
+        "age": 35,
+        "trestbps": 110.0,
+        "thalch": 140.0,
+        "chol": 257.0,
+        "num": 1
+    },
+    {
+        "age": 36,
+        "trestbps": 120.0,
+        "thalch": 160.0,
+        "chol": 267.0,
+        "num": 1
+    },
+    {
+        "age": 37,
+        "trestbps": 140.0,
+        "thalch": 130.0,
+        "chol": 207.0,
+        "num": 1
+    },
+    {
+        "age": 38,
+        "trestbps": 110.0,
+        "thalch": 166.0,
+        "chol": 196.0,
+        "num": 1
+    },
+    {
+        "age": 38,
+        "trestbps": 120.0,
+        "thalch": 170.0,
+        "chol": 282.0,
+        "num": 1
+    },
+    {
+        "age": 38,
+        "trestbps": 92.0,
+        "thalch": 134.0,
+        "chol": 117.0,
+        "num": 1
+    },
+    {
+        "age": 40,
+        "trestbps": 120.0,
+        "thalch": 152.0,
+        "chol": 466.0,
+        "num": 1
+    },
+    {
+        "age": 41,
+        "trestbps": 110.0,
+        "thalch": 170.0,
+        "chol": 289.0,
+        "num": 1
+    },
+    {
+        "age": 41,
+        "trestbps": 120.0,
+        "thalch": 138.0,
+        "chol": 237.0,
+        "num": 1
+    },
+    {
+        "age": 43,
+        "trestbps": 150.0,
+        "thalch": 130.0,
+        "chol": 247.0,
+        "num": 1
+    },
+    {
+        "age": 46,
+        "trestbps": 110.0,
+        "thalch": 150.0,
+        "chol": 202.0,
+        "num": 1
+    },
+    {
+        "age": 46,
+        "trestbps": 118.0,
+        "thalch": 124.0,
+        "chol": 186.0,
+        "num": 1
+    },
+    {
+        "age": 46,
+        "trestbps": 120.0,
+        "thalch": 125.0,
+        "chol": 277.0,
+        "num": 1
+    },
+    {
+        "age": 47,
+        "trestbps": 140.0,
+        "thalch": 145.0,
+        "chol": 193.0,
+        "num": 1
+    },
+    {
+        "age": 47,
+        "trestbps": 150.0,
+        "thalch": 98.0,
+        "chol": 226.0,
+        "num": 1
+    },
+    {
+        "age": 48,
+        "trestbps": 106.0,
+        "thalch": 110.0,
+        "chol": 263.0,
+        "num": 1
+    },
+    {
+        "age": 48,
+        "trestbps": 120.0,
+        "thalch": 115.0,
+        "chol": 260.0,
+        "num": 1
+    },
+    {
+        "age": 48,
+        "trestbps": 160.0,
+        "thalch": 103.0,
+        "chol": 268.0,
+        "num": 1
+    },
+    {
+        "age": 49,
+        "trestbps": 160.0,
+        "thalch": 156.0,
+        "chol": 180.0,
+        "num": 1
+    },
+    {
+        "age": 49,
+        "trestbps": 115.0,
+        "thalch": 175.0,
+        "chol": 265.0,
+        "num": 1
+    },
+    {
+        "age": 49,
+        "trestbps": 130.0,
+        "thalch": 170.0,
+        "chol": 206.0,
+        "num": 1
+    },
+    {
+        "age": 50,
+        "trestbps": 140.0,
+        "thalch": 140.0,
+        "chol": 288.0,
+        "num": 1
+    },
+    {
+        "age": 50,
+        "trestbps": 145.0,
+        "thalch": 150.0,
+        "chol": 264.0,
+        "num": 1
+    },
+    {
+        "age": 51,
+        "trestbps": 160.0,
+        "thalch": 150.0,
+        "chol": 303.0,
+        "num": 1
+    },
+    {
+        "age": 52,
+        "trestbps": 130.0,
+        "thalch": 120.0,
+        "chol": 225.0,
+        "num": 1
+    },
+    {
+        "age": 54,
+        "trestbps": 125.0,
+        "thalch": 140.0,
+        "chol": 216.0,
+        "num": 1
+    },
+    {
+        "age": 54,
+        "trestbps": 125.0,
+        "thalch": 122.0,
+        "chol": 224.0,
+        "num": 1
+    },
+    {
+        "age": 55,
+        "trestbps": 140.0,
+        "thalch": 130.0,
+        "chol": 201.0,
+        "num": 1
+    },
+    {
+        "age": 57,
+        "trestbps": 140.0,
+        "thalch": 145.0,
+        "chol": 265.0,
+        "num": 1
+    },
+    {
+        "age": 58,
+        "trestbps": 130.0,
+        "thalch": 140.0,
+        "chol": 213.0,
+        "num": 1
+    },
+    {
+        "age": 59,
+        "trestbps": 130.0,
+        "thalch": 130.0,
+        "chol": 338.0,
+        "num": 1
+    },
+    {
+        "age": 60,
+        "trestbps": 100.0,
+        "thalch": 125.0,
+        "chol": 248.0,
+        "num": 1
+    },
+    {
+        "age": 63,
+        "trestbps": 150.0,
+        "thalch": 115.0,
+        "chol": 223.0,
+        "num": 1
+    },
+    {
+        "age": 65,
+        "trestbps": 140.0,
+        "thalch": 87.0,
+        "chol": 306.0,
+        "num": 1
+    },
+    {
+        "age": 32,
+        "trestbps": 118.0,
+        "thalch": 130.0,
+        "chol": 529.0,
+        "num": 1
+    },
+    {
+        "age": 39,
+        "trestbps": 110.0,
+        "thalch": 150.0,
+        "chol": 280.0,
+        "num": 1
+    },
+    {
+        "age": 40,
+        "trestbps": 150.0,
+        "thalch": 130.0,
+        "chol": 392.0,
+        "num": 1
+    },
+    {
+        "age": 43,
+        "trestbps": 120.0,
+        "thalch": 155.0,
+        "chol": 291.0,
+        "num": 1
+    },
+    {
+        "age": 45,
+        "trestbps": 130.0,
+        "thalch": 130.0,
+        "chol": 219.0,
+        "num": 1
+    },
+    {
+        "age": 46,
+        "trestbps": 120.0,
+        "thalch": 115.0,
+        "chol": 231.0,
+        "num": 1
+    },
+    {
+        "age": 46,
+        "trestbps": 130.0,
+        "thalch": 112.0,
+        "chol": 222.0,
+        "num": 1
+    },
+    {
+        "age": 48,
+        "trestbps": 122.0,
+        "thalch": 150.0,
+        "chol": 275.0,
+        "num": 1
+    },
+    {
+        "age": 48,
+        "trestbps": 160.0,
+        "thalch": 102.0,
+        "chol": 193.0,
+        "num": 1
+    },
+    {
+        "age": 48,
+        "trestbps": 160.0,
+        "thalch": 92.0,
+        "chol": 329.0,
+        "num": 1
+    },
+    {
+        "age": 48,
+        "trestbps": 160.0,
+        "thalch": 99.0,
+        "chol": 355.0,
+        "num": 1
+    },
+    {
+        "age": 50,
+        "trestbps": 130.0,
+        "thalch": 121.0,
+        "chol": 233.0,
+        "num": 1
+    },
+    {
+        "age": 52,
+        "trestbps": 120.0,
+        "thalch": 150.0,
+        "chol": 182.0,
+        "num": 1
+    },
+    {
+        "age": 53,
+        "trestbps": 120.0,
+        "thalch": 116.0,
+        "chol": 246.0,
+        "num": 1
+    },
+    {
+        "age": 54,
+        "trestbps": 120.0,
+        "thalch": 150.0,
+        "chol": 237.0,
+        "num": 1
+    },
+    {
+        "age": 54,
+        "trestbps": 130.0,
+        "thalch": 91.0,
+        "chol": 242.0,
+        "num": 1
+    },
+    {
+        "age": 54,
+        "trestbps": 130.0,
+        "thalch": 125.0,
+        "chol": 603.0,
+        "num": 1
+    },
+    {
+        "age": 54,
+        "trestbps": 200.0,
+        "thalch": 142.0,
+        "chol": 198.0,
+        "num": 1
+    },
+    {
+        "age": 55,
+        "trestbps": 140.0,
+        "thalch": 128.0,
+        "chol": 268.0,
+        "num": 1
+    },
+    {
+        "age": 56,
+        "trestbps": 150.0,
+        "thalch": 125.0,
+        "chol": 213.0,
+        "num": 1
+    },
+    {
+        "age": 57,
+        "trestbps": 150.0,
+        "thalch": 92.0,
+        "chol": 255.0,
+        "num": 1
+    },
+    {
+        "age": 58,
+        "trestbps": 160.0,
+        "thalch": 92.0,
+        "chol": 211.0,
+        "num": 1
+    },
+    {
+        "age": 58,
+        "trestbps": 130.0,
+        "thalch": 140.0,
+        "chol": 263.0,
+        "num": 1
+    },
+    {
+        "age": 41,
+        "trestbps": 130.0,
+        "thalch": 130.0,
+        "chol": 172.0,
+        "num": 1
+    },
+    {
+        "age": 43,
+        "trestbps": 120.0,
+        "thalch": 120.0,
+        "chol": 175.0,
+        "num": 1
+    },
+    {
+        "age": 44,
+        "trestbps": 150.0,
+        "thalch": 150.0,
+        "chol": 288.0,
+        "num": 1
+    },
+    {
+        "age": 44,
+        "trestbps": 130.0,
+        "thalch": 100.0,
+        "chol": 290.0,
+        "num": 1
+    },
+    {
+        "age": 46,
+        "trestbps": 140.0,
+        "thalch": 175.0,
+        "chol": 272.0,
+        "num": 1
+    },
+    {
+        "age": 47,
+        "trestbps": 135.0,
+        "thalch": 170.0,
+        "chol": 248.0,
+        "num": 1
+    },
+    {
+        "age": 48,
+        "trestbps": 138.0,
+        "thalch": 108.0,
+        "chol": 214.0,
+        "num": 1
+    },
+    {
+        "age": 49,
+        "trestbps": 130.0,
+        "thalch": 120.0,
+        "chol": 341.0,
+        "num": 1
+    },
+    {
+        "age": 49,
+        "trestbps": 140.0,
+        "thalch": 140.0,
+        "chol": 234.0,
+        "num": 1
+    },
+    {
+        "age": 51,
+        "trestbps": 135.0,
+        "thalch": 150.0,
+        "chol": 160.0,
+        "num": 1
+    },
+    {
+        "age": 52,
+        "trestbps": 112.0,
+        "thalch": 96.0,
+        "chol": 342.0,
+        "num": 1
+    },
+    {
+        "age": 52,
+        "trestbps": 130.0,
+        "thalch": 110.0,
+        "chol": 298.0,
+        "num": 1
+    },
+    {
+        "age": 52,
+        "trestbps": 140.0,
+        "thalch": 124.0,
+        "chol": 404.0,
+        "num": 1
+    },
+    {
+        "age": 52,
+        "trestbps": 160.0,
+        "thalch": 82.0,
+        "chol": 246.0,
+        "num": 1
+    },
+    {
+        "age": 53,
+        "trestbps": 145.0,
+        "thalch": 130.0,
+        "chol": 518.0,
+        "num": 1
+    },
+    {
+        "age": 53,
+        "trestbps": 180.0,
+        "thalch": 120.0,
+        "chol": 285.0,
+        "num": 1
+    },
+    {
+        "age": 54,
+        "trestbps": 140.0,
+        "thalch": 105.0,
+        "chol": 216.0,
+        "num": 1
+    },
+    {
+        "age": 55,
+        "trestbps": 140.0,
+        "thalch": 136.0,
+        "chol": 295.0,
+        "num": 1
+    },
+    {
+        "age": 55,
+        "trestbps": 160.0,
+        "thalch": 143.0,
+        "chol": 292.0,
+        "num": 1
+    },
+    {
+        "age": 55,
+        "trestbps": 145.0,
+        "thalch": 96.0,
+        "chol": 248.0,
+        "num": 1
+    },
+    {
+        "age": 56,
+        "trestbps": 120.0,
+        "thalch": 150.0,
+        "chol": 279.0,
+        "num": 1
+    },
+    {
+        "age": 56,
+        "trestbps": 150.0,
+        "thalch": 124.0,
+        "chol": 230.0,
+        "num": 1
+    },
+    {
+        "age": 56,
+        "trestbps": 170.0,
+        "thalch": 122.0,
+        "chol": 388.0,
+        "num": 1
+    },
+    {
+        "age": 58,
+        "trestbps": 136.0,
+        "thalch": 99.0,
+        "chol": 164.0,
+        "num": 1
+    },
+    {
+        "age": 59,
+        "trestbps": 140.0,
+        "thalch": 119.0,
+        "chol": 264.0,
+        "num": 1
+    },
+    {
+        "age": 65,
+        "trestbps": 170.0,
+        "thalch": 112.0,
+        "chol": 263.0,
+        "num": 1
+    },
+    {
+        "age": 41,
+        "trestbps": 120.0,
+        "thalch": 118.0,
+        "chol": 336.0,
+        "num": 1
+    },
+    {
+        "age": 43,
+        "trestbps": 140.0,
+        "thalch": 135.0,
+        "chol": 288.0,
+        "num": 1
+    },
+    {
+        "age": 44,
+        "trestbps": 135.0,
+        "thalch": 135.0,
+        "chol": 491.0,
+        "num": 1
+    },
+    {
+        "age": 47,
+        "trestbps": 120.0,
+        "thalch": 98.0,
+        "chol": 205.0,
+        "num": 1
+    },
+    {
+        "age": 47,
+        "trestbps": 160.0,
+        "thalch": 158.0,
+        "chol": 291.0,
+        "num": 1
+    },
+    {
+        "age": 49,
+        "trestbps": 128.0,
+        "thalch": 96.0,
+        "chol": 212.0,
+        "num": 1
+    },
+    {
+        "age": 49,
+        "trestbps": 150.0,
+        "thalch": 122.0,
+        "chol": 222.0,
+        "num": 1
+    },
+    {
+        "age": 50,
+        "trestbps": 140.0,
+        "thalch": 140.0,
+        "chol": 231.0,
+        "num": 1
+    },
+    {
+        "age": 50,
+        "trestbps": 140.0,
+        "thalch": 125.0,
+        "chol": 341.0,
+        "num": 1
+    },
+    {
+        "age": 52,
+        "trestbps": 140.0,
+        "thalch": 134.0,
+        "chol": 266.0,
+        "num": 1
+    },
+    {
+        "age": 52,
+        "trestbps": 160.0,
+        "thalch": 94.0,
+        "chol": 331.0,
+        "num": 1
+    },
+    {
+        "age": 54,
+        "trestbps": 130.0,
+        "thalch": 100.0,
+        "chol": 294.0,
+        "num": 1
+    },
+    {
+        "age": 56,
+        "trestbps": 155.0,
+        "thalch": 150.0,
+        "chol": 342.0,
+        "num": 1
+    },
+    {
+        "age": 58,
+        "trestbps": 180.0,
+        "thalch": 110.0,
+        "chol": 393.0,
+        "num": 1
+    },
+    {
+        "age": 65,
+        "trestbps": 130.0,
+        "thalch": 115.0,
+        "chol": 275.0,
+        "num": 1
+    },
+    {
+        "age": 32,
+        "trestbps": 95.0,
+        "thalch": 127.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 34,
+        "trestbps": 115.0,
+        "thalch": 154.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 36,
+        "trestbps": 110.0,
+        "thalch": 125.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 38,
+        "trestbps": 105.0,
+        "thalch": 166.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 38,
+        "trestbps": 110.0,
+        "thalch": 156.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 38,
+        "trestbps": 100.0,
+        "thalch": 179.0,
+        "chol": 0.0,
+        "num": 0
+    },
+    {
+        "age": 38,
+        "trestbps": 115.0,
+        "thalch": 128.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 38,
+        "trestbps": 135.0,
+        "thalch": 150.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 38,
+        "trestbps": 150.0,
+        "thalch": 120.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 40,
+        "trestbps": 95.0,
+        "thalch": 144.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 41,
+        "trestbps": 125.0,
+        "thalch": 176.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 42,
+        "trestbps": 105.0,
+        "thalch": 128.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 42,
+        "trestbps": 145.0,
+        "thalch": 99.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 43,
+        "trestbps": 100.0,
+        "thalch": 122.0,
+        "chol": 0.0,
+        "num": 3
+    },
+    {
+        "age": 43,
+        "trestbps": 115.0,
+        "thalch": 145.0,
+        "chol": 0.0,
+        "num": 4
+    },
+    {
+        "age": 43,
+        "trestbps": 140.0,
+        "thalch": 140.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 45,
+        "trestbps": 110.0,
+        "thalch": 138.0,
+        "chol": 0.0,
+        "num": 0
+    },
+    {
+        "age": 46,
+        "trestbps": 100.0,
+        "thalch": 133.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 46,
+        "trestbps": 115.0,
+        "thalch": 113.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 47,
+        "trestbps": 110.0,
+        "thalch": 120.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 47,
+        "trestbps": 155.0,
+        "thalch": 118.0,
+        "chol": 0.0,
+        "num": 3
+    },
+    {
+        "age": 47,
+        "trestbps": 110.0,
+        "thalch": 149.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 47,
+        "trestbps": 160.0,
+        "thalch": 124.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 48,
+        "trestbps": 115.0,
+        "thalch": 128.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 50,
+        "trestbps": 160.0,
+        "thalch": 110.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 50,
+        "trestbps": 115.0,
+        "thalch": 120.0,
+        "chol": 0.0,
+        "num": 3
+    },
+    {
+        "age": 50,
+        "trestbps": 120.0,
+        "thalch": 156.0,
+        "chol": 0.0,
+        "num": 3
+    },
+    {
+        "age": 50,
+        "trestbps": 145.0,
+        "thalch": 139.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 51,
+        "trestbps": 120.0,
+        "thalch": 127.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 51,
+        "trestbps": 110.0,
+        "thalch": 92.0,
+        "chol": 0.0,
+        "num": 4
+    },
+    {
+        "age": 51,
+        "trestbps": 120.0,
+        "thalch": 104.0,
+        "chol": 0.0,
+        "num": 3
+    },
+    {
+        "age": 51,
+        "trestbps": 130.0,
+        "thalch": 170.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 51,
+        "trestbps": 130.0,
+        "thalch": 163.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 51,
+        "trestbps": 140.0,
+        "thalch": 60.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 51,
+        "trestbps": 95.0,
+        "thalch": 126.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 52,
+        "trestbps": 130.0,
+        "thalch": 120.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 52,
+        "trestbps": 135.0,
+        "thalch": 128.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 52,
+        "trestbps": 165.0,
+        "thalch": 122.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 52,
+        "trestbps": 95.0,
+        "thalch": 82.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 53,
+        "trestbps": 120.0,
+        "thalch": 95.0,
+        "chol": 0.0,
+        "num": 3
+    },
+    {
+        "age": 53,
+        "trestbps": 130.0,
+        "thalch": 120.0,
+        "chol": 0.0,
+        "num": 0
+    },
+    {
+        "age": 53,
+        "trestbps": 105.0,
+        "thalch": 115.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 53,
+        "trestbps": 160.0,
+        "thalch": 122.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 53,
+        "trestbps": 120.0,
+        "thalch": 120.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 53,
+        "trestbps": 125.0,
+        "thalch": 120.0,
+        "chol": 0.0,
+        "num": 4
+    },
+    {
+        "age": 53,
+        "trestbps": 130.0,
+        "thalch": 135.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 53,
+        "trestbps": 80.0,
+        "thalch": 141.0,
+        "chol": 0.0,
+        "num": 0
+    },
+    {
+        "age": 54,
+        "trestbps": 120.0,
+        "thalch": 155.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 54,
+        "trestbps": 130.0,
+        "thalch": 110.0,
+        "chol": 0.0,
+        "num": 3
+    },
+    {
+        "age": 54,
+        "trestbps": 180.0,
+        "thalch": 150.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 55,
+        "trestbps": 140.0,
+        "thalch": 150.0,
+        "chol": 0.0,
+        "num": 0
+    },
+    {
+        "age": 55,
+        "trestbps": 115.0,
+        "thalch": 155.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 55,
+        "trestbps": 120.0,
+        "thalch": 92.0,
+        "chol": 0.0,
+        "num": 4
+    },
+    {
+        "age": 55,
+        "trestbps": 140.0,
+        "thalch": 83.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 56,
+        "trestbps": 120.0,
+        "thalch": 97.0,
+        "chol": 0.0,
+        "num": 0
+    },
+    {
+        "age": 56,
+        "trestbps": 125.0,
+        "thalch": 98.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 56,
+        "trestbps": 155.0,
+        "thalch": 99.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 56,
+        "trestbps": 115.0,
+        "thalch": 82.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 56,
+        "trestbps": 120.0,
+        "thalch": 100.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 56,
+        "trestbps": 120.0,
+        "thalch": 148.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 56,
+        "trestbps": 125.0,
+        "thalch": 103.0,
+        "chol": 0.0,
+        "num": 3
+    },
+    {
+        "age": 56,
+        "trestbps": 140.0,
+        "thalch": 121.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 57,
+        "trestbps": 105.0,
+        "thalch": 148.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 57,
+        "trestbps": 110.0,
+        "thalch": 131.0,
+        "chol": 0.0,
+        "num": 3
+    },
+    {
+        "age": 57,
+        "trestbps": 140.0,
+        "thalch": 120.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 57,
+        "trestbps": 140.0,
+        "thalch": 100.0,
+        "chol": 0.0,
+        "num": 3
+    },
+    {
+        "age": 57,
+        "trestbps": 160.0,
+        "thalch": 98.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 57,
+        "trestbps": 95.0,
+        "thalch": 182.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 58,
+        "trestbps": 115.0,
+        "thalch": 138.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 58,
+        "trestbps": 130.0,
+        "thalch": 100.0,
+        "chol": 0.0,
+        "num": 4
+    },
+    {
+        "age": 58,
+        "trestbps": 170.0,
+        "thalch": 105.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 59,
+        "trestbps": 125.0,
+        "thalch": 175.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 59,
+        "trestbps": 110.0,
+        "thalch": 94.0,
+        "chol": 0.0,
+        "num": 3
+    },
+    {
+        "age": 59,
+        "trestbps": 120.0,
+        "thalch": 115.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 59,
+        "trestbps": 125.0,
+        "thalch": 119.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 59,
+        "trestbps": 135.0,
+        "thalch": 115.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 60,
+        "trestbps": 115.0,
+        "thalch": 143.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 60,
+        "trestbps": 125.0,
+        "thalch": 110.0,
+        "chol": 0.0,
+        "num": 3
+    },
+    {
+        "age": 60,
+        "trestbps": 130.0,
+        "thalch": 130.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 60,
+        "trestbps": 135.0,
+        "thalch": 63.0,
+        "chol": 0.0,
+        "num": 3
+    },
+    {
+        "age": 60,
+        "trestbps": 160.0,
+        "thalch": 99.0,
+        "chol": 0.0,
+        "num": 3
+    },
+    {
+        "age": 60,
+        "trestbps": 160.0,
+        "thalch": 149.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 61,
+        "trestbps": 200.0,
+        "thalch": 70.0,
+        "chol": 0.0,
+        "num": 3
+    },
+    {
+        "age": 61,
+        "trestbps": 105.0,
+        "thalch": 110.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 61,
+        "trestbps": 110.0,
+        "thalch": 113.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 61,
+        "trestbps": 125.0,
+        "thalch": 105.0,
+        "chol": 0.0,
+        "num": 3
+    },
+    {
+        "age": 61,
+        "trestbps": 130.0,
+        "thalch": 115.0,
+        "chol": 0.0,
+        "num": 3
+    },
+    {
+        "age": 61,
+        "trestbps": 130.0,
+        "thalch": 77.0,
+        "chol": 0.0,
+        "num": 3
+    },
+    {
+        "age": 61,
+        "trestbps": 150.0,
+        "thalch": 105.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 61,
+        "trestbps": 150.0,
+        "thalch": 117.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 61,
+        "trestbps": 160.0,
+        "thalch": 145.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 62,
+        "trestbps": 140.0,
+        "thalch": 143.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 62,
+        "trestbps": 120.0,
+        "thalch": 123.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 62,
+        "trestbps": 120.0,
+        "thalch": 134.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 62,
+        "trestbps": 160.0,
+        "thalch": 72.0,
+        "chol": 0.0,
+        "num": 3
+    },
+    {
+        "age": 62,
+        "trestbps": 115.0,
+        "thalch": 128.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 62,
+        "trestbps": 115.0,
+        "thalch": 72.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 62,
+        "trestbps": 150.0,
+        "thalch": 78.0,
+        "chol": 0.0,
+        "num": 3
+    },
+    {
+        "age": 63,
+        "trestbps": 100.0,
+        "thalch": 109.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 63,
+        "trestbps": 140.0,
+        "thalch": 149.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 63,
+        "trestbps": 150.0,
+        "thalch": 86.0,
+        "chol": 0.0,
+        "num": 3
+    },
+    {
+        "age": 63,
+        "trestbps": 150.0,
+        "thalch": 154.0,
+        "chol": 0.0,
+        "num": 3
+    },
+    {
+        "age": 63,
+        "trestbps": 185.0,
+        "thalch": 98.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 64,
+        "trestbps": 200.0,
+        "thalch": 140.0,
+        "chol": 0.0,
+        "num": 3
+    },
+    {
+        "age": 64,
+        "trestbps": 95.0,
+        "thalch": 145.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 64,
+        "trestbps": 110.0,
+        "thalch": 114.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 65,
+        "trestbps": 115.0,
+        "thalch": 93.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 65,
+        "trestbps": 145.0,
+        "thalch": 67.0,
+        "chol": 0.0,
+        "num": 3
+    },
+    {
+        "age": 65,
+        "trestbps": 155.0,
+        "thalch": 154.0,
+        "chol": 0.0,
+        "num": 0
+    },
+    {
+        "age": 65,
+        "trestbps": 160.0,
+        "thalch": 122.0,
+        "chol": 0.0,
+        "num": 3
+    },
+    {
+        "age": 66,
+        "trestbps": 155.0,
+        "thalch": 90.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 66,
+        "trestbps": 150.0,
+        "thalch": 108.0,
+        "chol": 0.0,
+        "num": 3
+    },
+    {
+        "age": 67,
+        "trestbps": 145.0,
+        "thalch": 125.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 68,
+        "trestbps": 135.0,
+        "thalch": 120.0,
+        "chol": 0.0,
+        "num": 3
+    },
+    {
+        "age": 68,
+        "trestbps": 145.0,
+        "thalch": 136.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 69,
+        "trestbps": 135.0,
+        "thalch": 130.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 70,
+        "trestbps": 115.0,
+        "thalch": 92.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 70,
+        "trestbps": 140.0,
+        "thalch": 157.0,
+        "chol": 0.0,
+        "num": 3
+    },
+    {
+        "age": 72,
+        "trestbps": 160.0,
+        "thalch": 114.0,
+        "chol": 0.0,
+        "num": 0
+    },
+    {
+        "age": 73,
+        "trestbps": 160.0,
+        "thalch": 121.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 74,
+        "trestbps": 145.0,
+        "thalch": 123.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 63,
+        "trestbps": 140.0,
+        "thalch": 112.0,
+        "chol": 260.0,
+        "num": 2
+    },
+    {
+        "age": 44,
+        "trestbps": 130.0,
+        "thalch": 127.0,
+        "chol": 209.0,
+        "num": 0
+    },
+    {
+        "age": 60,
+        "trestbps": 132.0,
+        "thalch": 140.0,
+        "chol": 218.0,
+        "num": 2
+    },
+    {
+        "age": 55,
+        "trestbps": 142.0,
+        "thalch": 149.0,
+        "chol": 228.0,
+        "num": 1
+    },
+    {
+        "age": 66,
+        "trestbps": 110.0,
+        "thalch": 99.0,
+        "chol": 213.0,
+        "num": 0
+    },
+    {
+        "age": 66,
+        "trestbps": 120.0,
+        "thalch": 120.0,
+        "chol": 0.0,
+        "num": 0
+    },
+    {
+        "age": 65,
+        "trestbps": 150.0,
+        "thalch": 105.0,
+        "chol": 236.0,
+        "num": 3
+    },
+    {
+        "age": 60,
+        "trestbps": 180.0,
+        "thalch": 140.0,
+        "chol": 0.0,
+        "num": 0
+    },
+    {
+        "age": 60,
+        "trestbps": 120.0,
+        "thalch": 141.0,
+        "chol": 0.0,
+        "num": 3
+    },
+    {
+        "age": 60,
+        "trestbps": 160.0,
+        "thalch": 157.0,
+        "chol": 267.0,
+        "num": 1
+    },
+    {
+        "age": 56,
+        "trestbps": 126.0,
+        "thalch": 140.0,
+        "chol": 166.0,
+        "num": 0
+    },
+    {
+        "age": 59,
+        "trestbps": 140.0,
+        "thalch": 117.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 62,
+        "trestbps": 110.0,
+        "thalch": 120.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 57,
+        "trestbps": 128.0,
+        "thalch": 148.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 62,
+        "trestbps": 120.0,
+        "thalch": 86.0,
+        "chol": 220.0,
+        "num": 0
+    },
+    {
+        "age": 63,
+        "trestbps": 170.0,
+        "thalch": 84.0,
+        "chol": 177.0,
+        "num": 4
+    },
+    {
+        "age": 46,
+        "trestbps": 110.0,
+        "thalch": 125.0,
+        "chol": 236.0,
+        "num": 1
+    },
+    {
+        "age": 63,
+        "trestbps": 126.0,
+        "thalch": 120.0,
+        "chol": 0.0,
+        "num": 0
+    },
+    {
+        "age": 60,
+        "trestbps": 152.0,
+        "thalch": 118.0,
+        "chol": 0.0,
+        "num": 0
+    },
+    {
+        "age": 58,
+        "trestbps": 116.0,
+        "thalch": 124.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 64,
+        "trestbps": 120.0,
+        "thalch": 106.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 63,
+        "trestbps": 130.0,
+        "thalch": 111.0,
+        "chol": 0.0,
+        "num": 3
+    },
+    {
+        "age": 52,
+        "trestbps": 128.0,
+        "thalch": 180.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 69,
+        "trestbps": 130.0,
+        "thalch": 129.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 60,
+        "trestbps": 130.0,
+        "thalch": 140.0,
+        "chol": 186.0,
+        "num": 1
+    },
+    {
+        "age": 56,
+        "trestbps": 120.0,
+        "thalch": 120.0,
+        "chol": 100.0,
+        "num": 1
+    },
+    {
+        "age": 77,
+        "trestbps": 124.0,
+        "thalch": 110.0,
+        "chol": 171.0,
+        "num": 3
+    },
+    {
+        "age": 63,
+        "trestbps": 160.0,
+        "thalch": 105.0,
+        "chol": 230.0,
+        "num": 3
+    },
+    {
+        "age": 55,
+        "trestbps": 0.0,
+        "thalch": 155.0,
+        "chol": 0.0,
+        "num": 3
+    },
+    {
+        "age": 52,
+        "trestbps": 122.0,
+        "thalch": 110.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 64,
+        "trestbps": 144.0,
+        "thalch": 122.0,
+        "chol": 0.0,
+        "num": 3
+    },
+    {
+        "age": 60,
+        "trestbps": 120.0,
+        "thalch": 133.0,
+        "chol": 0.0,
+        "num": 0
+    },
+    {
+        "age": 59,
+        "trestbps": 154.0,
+        "thalch": 131.0,
+        "chol": 0.0,
+        "num": 0
+    },
+    {
+        "age": 61,
+        "trestbps": 120.0,
+        "thalch": 80.0,
+        "chol": 0.0,
+        "num": 3
+    },
+    {
+        "age": 40,
+        "trestbps": 125.0,
+        "thalch": 165.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 41,
+        "trestbps": 104.0,
+        "thalch": 111.0,
+        "chol": 0.0,
+        "num": 0
+    },
+    {
+        "age": 63,
+        "trestbps": 136.0,
+        "thalch": 84.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 59,
+        "trestbps": 122.0,
+        "thalch": 117.0,
+        "chol": 233.0,
+        "num": 1
+    },
+    {
+        "age": 51,
+        "trestbps": 128.0,
+        "thalch": 107.0,
+        "chol": 0.0,
+        "num": 0
+    },
+    {
+        "age": 42,
+        "trestbps": 134.0,
+        "thalch": 160.0,
+        "chol": 240.0,
+        "num": 0
+    },
+    {
+        "age": 55,
+        "trestbps": 120.0,
+        "thalch": 125.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 62,
+        "trestbps": 152.0,
+        "thalch": 97.0,
+        "chol": 153.0,
+        "num": 2
+    },
+    {
+        "age": 56,
+        "trestbps": 124.0,
+        "thalch": 161.0,
+        "chol": 224.0,
+        "num": 0
+    },
+    {
+        "age": 53,
+        "trestbps": 126.0,
+        "thalch": 106.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 68,
+        "trestbps": 138.0,
+        "thalch": 130.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 53,
+        "trestbps": 154.0,
+        "thalch": 140.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 59,
+        "trestbps": 178.0,
+        "thalch": 120.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 61,
+        "trestbps": 110.0,
+        "thalch": 108.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 57,
+        "trestbps": 130.0,
+        "thalch": 148.0,
+        "chol": 311.0,
+        "num": 1
+    },
+    {
+        "age": 56,
+        "trestbps": 170.0,
+        "thalch": 123.0,
+        "chol": 0.0,
+        "num": 4
+    },
+    {
+        "age": 58,
+        "trestbps": 126.0,
+        "thalch": 110.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 69,
+        "trestbps": 140.0,
+        "thalch": 118.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 67,
+        "trestbps": 142.0,
+        "thalch": 125.0,
+        "chol": 270.0,
+        "num": 3
+    },
+    {
+        "age": 58,
+        "trestbps": 120.0,
+        "thalch": 106.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 55,
+        "trestbps": 110.0,
+        "thalch": 180.0,
+        "chol": 214.0,
+        "num": 0
+    },
+    {
+        "age": 57,
+        "trestbps": 140.0,
+        "thalch": 144.0,
+        "chol": 214.0,
+        "num": 2
+    },
+    {
+        "age": 54,
+        "trestbps": 136.0,
+        "thalch": 140.0,
+        "chol": 220.0,
+        "num": 3
+    },
+    {
+        "age": 72,
+        "trestbps": 120.0,
+        "thalch": 102.0,
+        "chol": 214.0,
+        "num": 3
+    },
+    {
+        "age": 75,
+        "trestbps": 170.0,
+        "thalch": 108.0,
+        "chol": 203.0,
+        "num": 1
+    },
+    {
+        "age": 49,
+        "trestbps": 130.0,
+        "thalch": 145.0,
+        "chol": 0.0,
+        "num": 2
+    },
+    {
+        "age": 60,
+        "trestbps": 142.0,
+        "thalch": 110.0,
+        "chol": 216.0,
+        "num": 2
+    },
+    {
+        "age": 64,
+        "trestbps": 142.0,
+        "thalch": 140.0,
+        "chol": 276.0,
+        "num": 1
+    },
+    {
+        "age": 58,
+        "trestbps": 132.0,
+        "thalch": 69.0,
+        "chol": 458.0,
+        "num": 0
+    },
+    {
+        "age": 61,
+        "trestbps": 146.0,
+        "thalch": 148.0,
+        "chol": 241.0,
+        "num": 2
+    },
+    {
+        "age": 67,
+        "trestbps": 160.0,
+        "thalch": 130.0,
+        "chol": 384.0,
+        "num": 2
+    },
+    {
+        "age": 62,
+        "trestbps": 135.0,
+        "thalch": 130.0,
+        "chol": 297.0,
+        "num": 2
+    },
+    {
+        "age": 65,
+        "trestbps": 136.0,
+        "thalch": 140.0,
+        "chol": 248.0,
+        "num": 4
+    },
+    {
+        "age": 63,
+        "trestbps": 130.0,
+        "thalch": 138.0,
+        "chol": 308.0,
+        "num": 2
+    },
+    {
+        "age": 69,
+        "trestbps": 140.0,
+        "thalch": 140.0,
+        "chol": 208.0,
+        "num": 3
+    },
+    {
+        "age": 62,
+        "trestbps": 158.0,
+        "thalch": 112.0,
+        "chol": 210.0,
+        "num": 1
+    },
+    {
+        "age": 75,
+        "trestbps": 136.0,
+        "thalch": 112.0,
+        "chol": 225.0,
+        "num": 3
+    },
+    {
+        "age": 40,
+        "trestbps": 106.0,
+        "thalch": 80.0,
+        "chol": 240.0,
+        "num": 0
+    },
+    {
+        "age": 67,
+        "trestbps": 120.0,
+        "thalch": 150.0,
+        "chol": 0.0,
+        "num": 3
+    },
+    {
+        "age": 58,
+        "trestbps": 110.0,
+        "thalch": 110.0,
+        "chol": 198.0,
+        "num": 1
+    },
+    {
+        "age": 63,
+        "trestbps": 160.0,
+        "thalch": 88.0,
+        "chol": 267.0,
+        "num": 3
+    },
+    {
+        "age": 62,
+        "trestbps": 112.0,
+        "thalch": 150.0,
+        "chol": 258.0,
+        "num": 1
+    },
+    {
+        "age": 43,
+        "trestbps": 122.0,
+        "thalch": 120.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 63,
+        "trestbps": 130.0,
+        "thalch": 160.0,
+        "chol": 0.0,
+        "num": 0
+    },
+    {
+        "age": 68,
+        "trestbps": 150.0,
+        "thalch": 132.0,
+        "chol": 195.0,
+        "num": 1
+    },
+    {
+        "age": 65,
+        "trestbps": 150.0,
+        "thalch": 120.0,
+        "chol": 235.0,
+        "num": 3
+    },
+    {
+        "age": 48,
+        "trestbps": 102.0,
+        "thalch": 110.0,
+        "chol": 0.0,
+        "num": 1
+    },
+    {
+        "age": 63,
+        "trestbps": 96.0,
+        "thalch": 121.0,
+        "chol": 305.0,
+        "num": 1
+    },
+    {
+        "age": 64,
+        "trestbps": 130.0,
+        "thalch": 128.0,
+        "chol": 223.0,
+        "num": 0
+    },
+    {
+        "age": 61,
+        "trestbps": 120.0,
+        "thalch": 135.0,
+        "chol": 282.0,
+        "num": 3
+    },
+    {
+        "age": 50,
+        "trestbps": 144.0,
+        "thalch": 120.0,
+        "chol": 349.0,
+        "num": 1
+    },
+    {
+        "age": 55,
+        "trestbps": 150.0,
+        "thalch": 150.0,
+        "chol": 160.0,
+        "num": 0
+    },
+    {
+        "age": 55,
+        "trestbps": 116.0,
+        "thalch": 102.0,
+        "chol": 186.0,
+        "num": 2
+    },
+    {
+        "age": 63,
+        "trestbps": 110.0,
+        "thalch": 140.0,
+        "chol": 252.0,
+        "num": 2
+    },
+    {
+        "age": 59,
+        "trestbps": 125.0,
+        "thalch": 135.0,
+        "chol": 222.0,
+        "num": 3
+    },
+    {
+        "age": 74,
+        "trestbps": 150.0,
+        "thalch": 130.0,
+        "chol": 258.0,
+        "num": 3
+    },
+    {
+        "age": 54,
+        "trestbps": 130.0,
+        "thalch": 112.0,
+        "chol": 202.0,
+        "num": 1
+    },
+    {
+        "age": 57,
+        "trestbps": 110.0,
+        "thalch": 100.0,
+        "chol": 197.0,
+        "num": 0
+    },
+    {
+        "age": 54,
+        "trestbps": 138.0,
+        "thalch": 105.0,
+        "chol": 274.0,
+        "num": 1
+    },
+    {
+        "age": 70,
+        "trestbps": 170.0,
+        "thalch": 129.0,
+        "chol": 192.0,
+        "num": 2
+    },
+    {
+        "age": 61,
+        "trestbps": 140.0,
+        "thalch": 120.0,
+        "chol": 298.0,
+        "num": 0
+    },
+    {
+        "age": 48,
+        "trestbps": 132.0,
+        "thalch": 162.0,
+        "chol": 220.0,
+        "num": 1
+    },
+    {
+        "age": 61,
+        "trestbps": 142.0,
+        "thalch": 100.0,
+        "chol": 200.0,
+        "num": 3
+    },
+    {
+        "age": 66,
+        "trestbps": 112.0,
+        "thalch": 140.0,
+        "chol": 261.0,
+        "num": 1
+    },
+    {
+        "age": 55,
+        "trestbps": 172.0,
+        "thalch": 73.0,
+        "chol": 260.0,
+        "num": 3
+    },
+    {
+        "age": 62,
+        "trestbps": 120.0,
+        "thalch": 86.0,
+        "chol": 220.0,
+        "num": 0
+    },
+    {
+        "age": 53,
+        "trestbps": 155.0,
+        "thalch": 160.0,
+        "chol": 175.0,
+        "num": 0
+    },
+    {
+        "age": 58,
+        "trestbps": 150.0,
+        "thalch": 118.0,
+        "chol": 219.0,
+        "num": 2
+    },
+    {
+        "age": 75,
+        "trestbps": 160.0,
+        "thalch": 112.0,
+        "chol": 310.0,
+        "num": 0
+    },
+    {
+        "age": 64,
+        "trestbps": 134.0,
+        "thalch": 102.0,
+        "chol": 273.0,
+        "num": 4
+    },
+    {
+        "age": 59,
+        "trestbps": 140.0,
+        "thalch": 154.0,
+        "chol": 274.0,
+        "num": 0
+    },
+    {
+        "age": 57,
+        "trestbps": 144.0,
+        "thalch": 160.0,
+        "chol": 270.0,
+        "num": 3
+    },
+    {
+        "age": 41,
+        "trestbps": 150.0,
+        "thalch": 128.0,
+        "chol": 171.0,
+        "num": 0
+    },
+    {
+        "age": 71,
+        "trestbps": 130.0,
+        "thalch": 115.0,
+        "chol": 221.0,
+        "num": 3
+    },
+    {
+        "age": 38,
+        "trestbps": 110.0,
+        "thalch": 105.0,
+        "chol": 289.0,
+        "num": 1
+    },
+    {
+        "age": 55,
+        "trestbps": 158.0,
+        "thalch": 110.0,
+        "chol": 217.0,
+        "num": 1
+    },
+    {
+        "age": 56,
+        "trestbps": 128.0,
+        "thalch": 119.0,
+        "chol": 223.0,
+        "num": 2
+    },
+    {
+        "age": 64,
+        "trestbps": 150.0,
+        "thalch": 135.0,
+        "chol": 193.0,
+        "num": 2
+    },
+    {
+        "age": 57,
+        "trestbps": 156.0,
+        "thalch": 119.0,
+        "chol": 173.0,
+        "num": 3
+    },
+    {
+        "age": 69,
+        "trestbps": 122.0,
+        "thalch": 84.0,
+        "chol": 216.0,
+        "num": 2
+    },
+    {
+        "age": 57,
+        "trestbps": 180.0,
+        "thalch": 120.0,
+        "chol": 285.0,
+        "num": 1
+    },
+    {
+        "age": 53,
+        "trestbps": 124.0,
+        "thalch": 122.0,
+        "chol": 243.0,
+        "num": 1
+    },
+    {
+        "age": 37,
+        "trestbps": 118.0,
+        "thalch": 165.0,
+        "chol": 240.0,
+        "num": 0
+    },
+    {
+        "age": 67,
+        "trestbps": 140.0,
+        "thalch": 122.0,
+        "chol": 219.0,
+        "num": 3
+    },
+    {
+        "age": 74,
+        "trestbps": 140.0,
+        "thalch": 94.0,
+        "chol": 237.0,
+        "num": 1
+    },
+    {
+        "age": 58,
+        "trestbps": 100.0,
+        "thalch": 110.0,
+        "chol": 213.0,
+        "num": 0
+    },
+    {
+        "age": 61,
+        "trestbps": 190.0,
+        "thalch": 150.0,
+        "chol": 287.0,
+        "num": 4
+    },
+    {
+        "age": 64,
+        "trestbps": 130.0,
+        "thalch": 130.0,
+        "chol": 258.0,
+        "num": 2
+    },
+    {
+        "age": 58,
+        "trestbps": 160.0,
+        "thalch": 113.0,
+        "chol": 256.0,
+        "num": 3
+    },
+    {
+        "age": 60,
+        "trestbps": 130.0,
+        "thalch": 140.0,
+        "chol": 186.0,
+        "num": 1
+    },
+    {
+        "age": 57,
+        "trestbps": 122.0,
+        "thalch": 100.0,
+        "chol": 264.0,
+        "num": 1
+    },
+    {
+        "age": 55,
+        "trestbps": 120.0,
+        "thalch": 127.0,
+        "chol": 226.0,
+        "num": 1
+    },
+    {
+        "age": 56,
+        "trestbps": 130.0,
+        "thalch": 98.0,
+        "chol": 203.0,
+        "num": 1
+    },
+    {
+        "age": 57,
+        "trestbps": 130.0,
+        "thalch": 96.0,
+        "chol": 207.0,
+        "num": 0
+    },
+    {
+        "age": 61,
+        "trestbps": 120.0,
+        "thalch": 98.0,
+        "chol": 337.0,
+        "num": 3
+    },
+    {
+        "age": 58,
+        "trestbps": 150.0,
+        "thalch": 118.0,
+        "chol": 219.0,
+        "num": 2
+    },
+    {
+        "age": 74,
+        "trestbps": 155.0,
+        "thalch": 112.0,
+        "chol": 310.0,
+        "num": 2
+    },
+    {
+        "age": 68,
+        "trestbps": 134.0,
+        "thalch": 151.0,
+        "chol": 254.0,
+        "num": 0
+    },
+    {
+        "age": 51,
+        "trestbps": 114.0,
+        "thalch": 96.0,
+        "chol": 258.0,
+        "num": 0
+    },
+    {
+        "age": 62,
+        "trestbps": 160.0,
+        "thalch": 108.0,
+        "chol": 254.0,
+        "num": 4
+    },
+    {
+        "age": 53,
+        "trestbps": 144.0,
+        "thalch": 128.0,
+        "chol": 300.0,
+        "num": 3
+    },
+    {
+        "age": 62,
+        "trestbps": 158.0,
+        "thalch": 138.0,
+        "chol": 170.0,
+        "num": 1
+    },
+    {
+        "age": 46,
+        "trestbps": 134.0,
+        "thalch": 126.0,
+        "chol": 310.0,
+        "num": 2
+    },
+    {
+        "age": 54,
+        "trestbps": 127.0,
+        "thalch": 154.0,
+        "chol": 333.0,
+        "num": 1
+    },
+    {
+        "age": 55,
+        "trestbps": 122.0,
+        "thalch": 100.0,
+        "chol": 223.0,
+        "num": 2
+    },
+    {
+        "age": 62,
+        "trestbps": 120.0,
+        "thalch": 93.0,
+        "chol": 254.0,
+        "num": 1
+    }
+]

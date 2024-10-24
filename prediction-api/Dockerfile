@@ -1,18 +1,20 @@
 # Using python 3.12.7 slim image as the base image
 FROM python:3.12.7-slim
-# Defining working directory (within the container)
+# Defining working directory and copy the requirements file. We will run the commands inside this new directory
 WORKDIR /usr/src/myapp
-# Copy requirements.txt to the working directory
+# Copy requirements.txt  to the working directory
 COPY requirements.txt .
 # Install required python packages
 RUN pip install --no-cache-dir -r requirements.txt
-# Copy all files in prediction-ui local host directory to /usr/src/myapp in Docker container
+# Copy all files in prediction-api local host directory to /usr/src/myapp in Docker container
 COPY . .
-# Expose the port that our Flask app will run on
+# Expose the port that our app runs in
 EXPOSE 5000
-# Environment Variables (update the API URL)
-ENV PREDICTOR_API=http://predictor-api-server:5000/heart_attack_predictor/
-# Metadata labels (optional)
-LABEL heart.disease.predictor.api="0.0.1-beta"
-# Run our Flask App
-CMD ["python3", "app.py"]
+# Environment Variables
+ENV MODEL_REPO=/usr/src/myapp
+# Run our App
+CMD ["python3","app.py"]
+# We can also use an ENTRYPOINT and a CMD
+# Run our App
+#ENTRYPOINT ["python3"]
+#CMD ["app.py"]

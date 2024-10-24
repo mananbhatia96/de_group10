@@ -21,4 +21,4 @@ def predict_str():
 
 # The code within this conditional block will only run if this file is executed as a script.
 if __name__ == '__main__':
-    app.run(port=int(os.environ.get("PORT", 5001)), host='0.0.0.0', debug=True)
+    app.run(port=int(os.environ.get("PORT", 5000)), host='0.0.0.0', debug=True)

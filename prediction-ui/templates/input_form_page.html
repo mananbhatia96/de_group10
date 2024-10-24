@@ -1,0 +1,94 @@
+<html>
+<head>
+    <title>Heart Disease Prediction Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+
+        label {
+            font-weight: bold;
+            margin-top: 10px;
+        }
+
+        input[type="number"] {
+            width: 100%;
+            padding: 8px;
+            margin: 5px 0 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        p.description {
+            color: #777;
+            font-size: 0.9em;
+            margin-top: -8px;
+            margin-bottom: 10px;
+        }
+
+        input[type="submit"] {
+            width: 100%;
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 1.1em;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Heart Disease Risk Prediction</h1>
+
+    <form action="/checkheartdisease" method="POST">
+
+        <!-- Number of Major Vessels (caa) -->
+        <label for="caa">Number of Major Vessels (0-3):</label>
+        <input type="number" id="caa" name="caa" placeholder="Enter number of major vessels" required>
+        <p class="description">Number of major vessels (0-3) colored by fluoroscopy</p>
+
+        <!-- Chest Pain Type (cp) -->
+        <label for="cp">Chest Pain Type (1-4):</label>
+        <input type="number" id="cp" name="cp" placeholder="Enter chest pain type" required>
+        <p class="description">1: Typical angina, 2: Atypical angina, 3: Non-anginal pain, 4: Asymptomatic</p>
+
+        <!-- Oldpeak -->
+        <label for="oldpeak">Oldpeak:</label>
+        <input type="number" step="any" id="oldpeak" name="oldpeak" placeholder="Enter ST depression" required>
+        <p class="description">ST depression induced by exercise</p>
+
+        <!-- Maximum Heart Rate Achieved (thalachh) -->
+        <label for="thalachh">Maximum Heart Rate Achieved:</label>
+        <input type="number" id="thalachh" name="thalachh" placeholder="Enter maximum heart rate" required>
+        <p class="description">Maximum heart rate achieved</p>
+
+        <!-- Thalassemia (thall) -->
+        <label for="thall">Thalassemia (1-3):</label>
+        <input type="number" id="thall" name="thall" placeholder="Enter thalassemia" required>
+        <p class="description">1: Normal, 2: Fixed defect, 3: Reversible defect</p>
+
+        <!-- Age -->
+        <label for="age">Age (years):</label>
+        <input type="number" id="age" name="age" placeholder="Enter your age" required> 
+        <p class="description">Age of the patient</p>
+
+        <!-- Submit Button -->
+        <input type="submit" value="Check Heart Disease Risk">
+    </form>
+
+</body>
+</html>

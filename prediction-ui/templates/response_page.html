@@ -1,0 +1,18 @@
+<html>
+<head>
+    <title>Heart Disease Prediction Result</title>
+</head>
+<body>
+
+<h1>Heart Disease Prediction Result</h1>
+
+{% if prediction_variable == 1 %}
+    <p><strong>It is likely that you may be at risk of heart disease.</strong></p>
+{% else %}
+    <p><strong>It is unlikely that you are at risk of heart disease.</strong></p>
+{% endif %}
+
+<a href="/checkheartdisease">Go Back to Form</a>
+
+</body>
+</html>

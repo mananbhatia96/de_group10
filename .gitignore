@@ -1,0 +1,22 @@
+# Ignore any folder with venv in its name
+*venv*/
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore log files
+*.log
+
+# Ignore temporary files created by editors
+*.swp
+*.swo
+*~
+
+# Ignore backup or temp files
+*.bak
+*.tmp
+

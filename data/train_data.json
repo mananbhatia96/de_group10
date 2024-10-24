@@ -1,0 +1,2729 @@
+[
+    {
+        "caa": 0,
+        "cp": 3,
+        "oldpeak": 2.3,
+        "thalachh": 150,
+        "thall": 1,
+        "age": 63,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 3.5,
+        "thalachh": 187,
+        "thall": 2,
+        "age": 37,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 1.4,
+        "thalachh": 172,
+        "thall": 2,
+        "age": 41,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 0.8,
+        "thalachh": 178,
+        "thall": 2,
+        "age": 56,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.6,
+        "thalachh": 163,
+        "thall": 2,
+        "age": 57,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.4,
+        "thalachh": 148,
+        "thall": 1,
+        "age": 57,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 1.3,
+        "thalachh": 153,
+        "thall": 2,
+        "age": 56,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 0.0,
+        "thalachh": 173,
+        "thall": 3,
+        "age": 44,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.5,
+        "thalachh": 162,
+        "thall": 3,
+        "age": 52,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 1.6,
+        "thalachh": 174,
+        "thall": 2,
+        "age": 57,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 1.2,
+        "thalachh": 160,
+        "thall": 2,
+        "age": 54,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.2,
+        "thalachh": 139,
+        "thall": 2,
+        "age": 48,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 0.6,
+        "thalachh": 171,
+        "thall": 2,
+        "age": 49,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 3,
+        "oldpeak": 1.8,
+        "thalachh": 144,
+        "thall": 2,
+        "age": 64,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 3,
+        "oldpeak": 1.0,
+        "thalachh": 162,
+        "thall": 2,
+        "age": 58,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 1.6,
+        "thalachh": 158,
+        "thall": 2,
+        "age": 50,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.0,
+        "thalachh": 172,
+        "thall": 2,
+        "age": 58,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 3,
+        "oldpeak": 2.6,
+        "thalachh": 114,
+        "thall": 2,
+        "age": 66,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 1.5,
+        "thalachh": 171,
+        "thall": 2,
+        "age": 43,
+        "output": 1
+    },
+    {
+        "caa": 2,
+        "cp": 3,
+        "oldpeak": 1.8,
+        "thalachh": 151,
+        "thall": 2,
+        "age": 69,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.5,
+        "thalachh": 161,
+        "thall": 3,
+        "age": 59,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.4,
+        "thalachh": 179,
+        "thall": 2,
+        "age": 44,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.0,
+        "thalachh": 178,
+        "thall": 2,
+        "age": 42,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 1.0,
+        "thalachh": 137,
+        "thall": 2,
+        "age": 61,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 3,
+        "oldpeak": 1.4,
+        "thalachh": 178,
+        "thall": 3,
+        "age": 40,
+        "output": 1
+    },
+    {
+        "caa": 2,
+        "cp": 1,
+        "oldpeak": 0.4,
+        "thalachh": 162,
+        "thall": 2,
+        "age": 71,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 1.6,
+        "thalachh": 157,
+        "thall": 2,
+        "age": 59,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.6,
+        "thalachh": 123,
+        "thall": 2,
+        "age": 51,
+        "output": 1
+    },
+    {
+        "caa": 1,
+        "cp": 2,
+        "oldpeak": 0.8,
+        "thalachh": 157,
+        "thall": 2,
+        "age": 65,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 1.2,
+        "thalachh": 152,
+        "thall": 2,
+        "age": 53,
+        "output": 1
+    },
+    {
+        "caa": 1,
+        "cp": 1,
+        "oldpeak": 0.0,
+        "thalachh": 168,
+        "thall": 2,
+        "age": 41,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.4,
+        "thalachh": 140,
+        "thall": 3,
+        "age": 65,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 0.0,
+        "thalachh": 188,
+        "thall": 2,
+        "age": 44,
+        "output": 1
+    },
+    {
+        "caa": 1,
+        "cp": 2,
+        "oldpeak": 0.5,
+        "thalachh": 152,
+        "thall": 2,
+        "age": 54,
+        "output": 1
+    },
+    {
+        "caa": 1,
+        "cp": 3,
+        "oldpeak": 1.4,
+        "thalachh": 125,
+        "thall": 2,
+        "age": 51,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 1.4,
+        "thalachh": 160,
+        "thall": 2,
+        "age": 46,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.0,
+        "thalachh": 170,
+        "thall": 2,
+        "age": 54,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 1.6,
+        "thalachh": 165,
+        "thall": 3,
+        "age": 54,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.8,
+        "thalachh": 148,
+        "thall": 2,
+        "age": 65,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.8,
+        "thalachh": 151,
+        "thall": 2,
+        "age": 65,
+        "output": 1
+    },
+    {
+        "caa": 1,
+        "cp": 2,
+        "oldpeak": 1.5,
+        "thalachh": 142,
+        "thall": 2,
+        "age": 51,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 0.2,
+        "thalachh": 180,
+        "thall": 2,
+        "age": 48,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 3.0,
+        "thalachh": 148,
+        "thall": 2,
+        "age": 45,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.4,
+        "thalachh": 143,
+        "thall": 2,
+        "age": 53,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.0,
+        "thalachh": 182,
+        "thall": 2,
+        "age": 39,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 0.2,
+        "thalachh": 172,
+        "thall": 2,
+        "age": 52,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.0,
+        "thalachh": 180,
+        "thall": 2,
+        "age": 44,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.0,
+        "thalachh": 156,
+        "thall": 2,
+        "age": 47,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.0,
+        "thalachh": 115,
+        "thall": 0,
+        "age": 53,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.0,
+        "thalachh": 160,
+        "thall": 2,
+        "age": 53,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.5,
+        "thalachh": 149,
+        "thall": 2,
+        "age": 51,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.4,
+        "thalachh": 151,
+        "thall": 2,
+        "age": 66,
+        "output": 1
+    },
+    {
+        "caa": 3,
+        "cp": 2,
+        "oldpeak": 1.8,
+        "thalachh": 146,
+        "thall": 3,
+        "age": 62,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.6,
+        "thalachh": 175,
+        "thall": 2,
+        "age": 44,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.0,
+        "thalachh": 172,
+        "thall": 2,
+        "age": 63,
+        "output": 1
+    },
+    {
+        "caa": 1,
+        "cp": 1,
+        "oldpeak": 0.8,
+        "thalachh": 158,
+        "thall": 2,
+        "age": 52,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.0,
+        "thalachh": 186,
+        "thall": 2,
+        "age": 48,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.0,
+        "thalachh": 185,
+        "thall": 2,
+        "age": 45,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 3,
+        "oldpeak": 0.0,
+        "thalachh": 174,
+        "thall": 2,
+        "age": 34,
+        "output": 1
+    },
+    {
+        "caa": 1,
+        "cp": 0,
+        "oldpeak": 0.0,
+        "thalachh": 159,
+        "thall": 2,
+        "age": 57,
+        "output": 1
+    },
+    {
+        "caa": 1,
+        "cp": 2,
+        "oldpeak": 0.0,
+        "thalachh": 130,
+        "thall": 2,
+        "age": 71,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 0.0,
+        "thalachh": 156,
+        "thall": 3,
+        "age": 54,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 3,
+        "oldpeak": 0.0,
+        "thalachh": 190,
+        "thall": 1,
+        "age": 52,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 0.0,
+        "thalachh": 132,
+        "thall": 1,
+        "age": 41,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.0,
+        "thalachh": 165,
+        "thall": 2,
+        "age": 58,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 1.4,
+        "thalachh": 182,
+        "thall": 2,
+        "age": 35,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 1.2,
+        "thalachh": 143,
+        "thall": 2,
+        "age": 51,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 0.6,
+        "thalachh": 175,
+        "thall": 2,
+        "age": 45,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 0.0,
+        "thalachh": 170,
+        "thall": 2,
+        "age": 44,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.0,
+        "thalachh": 163,
+        "thall": 2,
+        "age": 62,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.4,
+        "thalachh": 147,
+        "thall": 3,
+        "age": 54,
+        "output": 1
+    },
+    {
+        "caa": 1,
+        "cp": 2,
+        "oldpeak": 0.0,
+        "thalachh": 154,
+        "thall": 3,
+        "age": 51,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 0.0,
+        "thalachh": 202,
+        "thall": 2,
+        "age": 29,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.0,
+        "thalachh": 186,
+        "thall": 2,
+        "age": 51,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.2,
+        "thalachh": 165,
+        "thall": 2,
+        "age": 43,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 1.4,
+        "thalachh": 161,
+        "thall": 2,
+        "age": 55,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 2.4,
+        "thalachh": 166,
+        "thall": 2,
+        "age": 51,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 0.0,
+        "thalachh": 164,
+        "thall": 2,
+        "age": 59,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 0.0,
+        "thalachh": 184,
+        "thall": 2,
+        "age": 52,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.6,
+        "thalachh": 154,
+        "thall": 3,
+        "age": 58,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.0,
+        "thalachh": 179,
+        "thall": 2,
+        "age": 41,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 0.0,
+        "thalachh": 170,
+        "thall": 2,
+        "age": 45,
+        "output": 1
+    },
+    {
+        "caa": 1,
+        "cp": 2,
+        "oldpeak": 0.0,
+        "thalachh": 160,
+        "thall": 2,
+        "age": 60,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 3,
+        "oldpeak": 1.2,
+        "thalachh": 178,
+        "thall": 3,
+        "age": 52,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.6,
+        "thalachh": 122,
+        "thall": 2,
+        "age": 42,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 1.6,
+        "thalachh": 160,
+        "thall": 3,
+        "age": 67,
+        "output": 1
+    },
+    {
+        "caa": 1,
+        "cp": 2,
+        "oldpeak": 1.0,
+        "thalachh": 151,
+        "thall": 3,
+        "age": 68,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 0.0,
+        "thalachh": 156,
+        "thall": 3,
+        "age": 46,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 1.6,
+        "thalachh": 158,
+        "thall": 2,
+        "age": 54,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 1.0,
+        "thalachh": 122,
+        "thall": 2,
+        "age": 58,
+        "output": 1
+    },
+    {
+        "caa": 2,
+        "cp": 2,
+        "oldpeak": 0.0,
+        "thalachh": 175,
+        "thall": 2,
+        "age": 48,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.0,
+        "thalachh": 168,
+        "thall": 3,
+        "age": 57,
+        "output": 1
+    },
+    {
+        "caa": 4,
+        "cp": 2,
+        "oldpeak": 0.0,
+        "thalachh": 169,
+        "thall": 2,
+        "age": 52,
+        "output": 1
+    },
+    {
+        "caa": 1,
+        "cp": 1,
+        "oldpeak": 0.0,
+        "thalachh": 159,
+        "thall": 2,
+        "age": 54,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 0.0,
+        "thalachh": 138,
+        "thall": 2,
+        "age": 45,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.0,
+        "thalachh": 111,
+        "thall": 3,
+        "age": 53,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 1.2,
+        "thalachh": 157,
+        "thall": 2,
+        "age": 62,
+        "output": 1
+    },
+    {
+        "caa": 3,
+        "cp": 0,
+        "oldpeak": 0.1,
+        "thalachh": 147,
+        "thall": 3,
+        "age": 52,
+        "output": 1
+    },
+    {
+        "caa": 1,
+        "cp": 2,
+        "oldpeak": 1.9,
+        "thalachh": 162,
+        "thall": 2,
+        "age": 43,
+        "output": 1
+    },
+    {
+        "caa": 3,
+        "cp": 2,
+        "oldpeak": 0.0,
+        "thalachh": 173,
+        "thall": 2,
+        "age": 53,
+        "output": 1
+    },
+    {
+        "caa": 2,
+        "cp": 3,
+        "oldpeak": 0.8,
+        "thalachh": 178,
+        "thall": 2,
+        "age": 42,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 3,
+        "oldpeak": 4.2,
+        "thalachh": 145,
+        "thall": 3,
+        "age": 59,
+        "output": 1
+    },
+    {
+        "caa": 2,
+        "cp": 1,
+        "oldpeak": 0.0,
+        "thalachh": 179,
+        "thall": 2,
+        "age": 63,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.8,
+        "thalachh": 194,
+        "thall": 3,
+        "age": 42,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.0,
+        "thalachh": 163,
+        "thall": 2,
+        "age": 50,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 1.5,
+        "thalachh": 115,
+        "thall": 2,
+        "age": 68,
+        "output": 1
+    },
+    {
+        "caa": 1,
+        "cp": 3,
+        "oldpeak": 0.1,
+        "thalachh": 131,
+        "thall": 2,
+        "age": 69,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.2,
+        "thalachh": 152,
+        "thall": 2,
+        "age": 45,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 1.1,
+        "thalachh": 162,
+        "thall": 2,
+        "age": 50,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.0,
+        "thalachh": 159,
+        "thall": 2,
+        "age": 50,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.0,
+        "thalachh": 154,
+        "thall": 2,
+        "age": 64,
+        "output": 1
+    },
+    {
+        "caa": 1,
+        "cp": 2,
+        "oldpeak": 0.2,
+        "thalachh": 173,
+        "thall": 3,
+        "age": 57,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.2,
+        "thalachh": 133,
+        "thall": 3,
+        "age": 64,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.0,
+        "thalachh": 161,
+        "thall": 3,
+        "age": 43,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 0.0,
+        "thalachh": 155,
+        "thall": 2,
+        "age": 55,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.0,
+        "thalachh": 170,
+        "thall": 2,
+        "age": 37,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 2.0,
+        "thalachh": 168,
+        "thall": 2,
+        "age": 41,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 3,
+        "oldpeak": 1.9,
+        "thalachh": 162,
+        "thall": 3,
+        "age": 56,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 0.0,
+        "thalachh": 172,
+        "thall": 2,
+        "age": 46,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.0,
+        "thalachh": 152,
+        "thall": 2,
+        "age": 46,
+        "output": 1
+    },
+    {
+        "caa": 2,
+        "cp": 0,
+        "oldpeak": 2.0,
+        "thalachh": 122,
+        "thall": 2,
+        "age": 64,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.0,
+        "thalachh": 182,
+        "thall": 2,
+        "age": 59,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.0,
+        "thalachh": 172,
+        "thall": 2,
+        "age": 41,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.0,
+        "thalachh": 167,
+        "thall": 2,
+        "age": 54,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.0,
+        "thalachh": 179,
+        "thall": 2,
+        "age": 39,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 0.7,
+        "thalachh": 192,
+        "thall": 2,
+        "age": 34,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.1,
+        "thalachh": 143,
+        "thall": 2,
+        "age": 47,
+        "output": 1
+    },
+    {
+        "caa": 1,
+        "cp": 2,
+        "oldpeak": 0.0,
+        "thalachh": 172,
+        "thall": 2,
+        "age": 67,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.1,
+        "thalachh": 169,
+        "thall": 2,
+        "age": 52,
+        "output": 1
+    },
+    {
+        "caa": 1,
+        "cp": 1,
+        "oldpeak": 0.2,
+        "thalachh": 121,
+        "thall": 2,
+        "age": 74,
+        "output": 1
+    },
+    {
+        "caa": 1,
+        "cp": 2,
+        "oldpeak": 0.0,
+        "thalachh": 163,
+        "thall": 2,
+        "age": 54,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 0.0,
+        "thalachh": 162,
+        "thall": 2,
+        "age": 49,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 0.0,
+        "thalachh": 162,
+        "thall": 2,
+        "age": 42,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 0.0,
+        "thalachh": 153,
+        "thall": 2,
+        "age": 41,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 0.0,
+        "thalachh": 163,
+        "thall": 2,
+        "age": 41,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.0,
+        "thalachh": 163,
+        "thall": 2,
+        "age": 49,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.0,
+        "thalachh": 96,
+        "thall": 2,
+        "age": 60,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 0.0,
+        "thalachh": 140,
+        "thall": 2,
+        "age": 62,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 1.5,
+        "thalachh": 126,
+        "thall": 1,
+        "age": 57,
+        "output": 1
+    },
+    {
+        "caa": 1,
+        "cp": 0,
+        "oldpeak": 0.2,
+        "thalachh": 105,
+        "thall": 3,
+        "age": 64,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.6,
+        "thalachh": 157,
+        "thall": 2,
+        "age": 51,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 1.2,
+        "thalachh": 181,
+        "thall": 2,
+        "age": 43,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.0,
+        "thalachh": 173,
+        "thall": 2,
+        "age": 42,
+        "output": 1
+    },
+    {
+        "caa": 2,
+        "cp": 0,
+        "oldpeak": 0.3,
+        "thalachh": 142,
+        "thall": 2,
+        "age": 67,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 1.1,
+        "thalachh": 116,
+        "thall": 2,
+        "age": 76,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 0.0,
+        "thalachh": 143,
+        "thall": 2,
+        "age": 70,
+        "output": 1
+    },
+    {
+        "caa": 1,
+        "cp": 2,
+        "oldpeak": 0.3,
+        "thalachh": 149,
+        "thall": 2,
+        "age": 44,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 3,
+        "oldpeak": 0.9,
+        "thalachh": 171,
+        "thall": 2,
+        "age": 60,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.0,
+        "thalachh": 169,
+        "thall": 2,
+        "age": 44,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.0,
+        "thalachh": 150,
+        "thall": 2,
+        "age": 42,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 2.3,
+        "thalachh": 138,
+        "thall": 1,
+        "age": 66,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 1.6,
+        "thalachh": 125,
+        "thall": 2,
+        "age": 71,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 3,
+        "oldpeak": 0.6,
+        "thalachh": 155,
+        "thall": 3,
+        "age": 64,
+        "output": 1
+    },
+    {
+        "caa": 1,
+        "cp": 2,
+        "oldpeak": 0.0,
+        "thalachh": 152,
+        "thall": 2,
+        "age": 66,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.0,
+        "thalachh": 152,
+        "thall": 2,
+        "age": 39,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.6,
+        "thalachh": 131,
+        "thall": 2,
+        "age": 58,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.0,
+        "thalachh": 179,
+        "thall": 2,
+        "age": 47,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 0.0,
+        "thalachh": 174,
+        "thall": 2,
+        "age": 35,
+        "output": 1
+    },
+    {
+        "caa": 4,
+        "cp": 1,
+        "oldpeak": 0.4,
+        "thalachh": 144,
+        "thall": 3,
+        "age": 58,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 0.0,
+        "thalachh": 163,
+        "thall": 3,
+        "age": 56,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 0.0,
+        "thalachh": 169,
+        "thall": 2,
+        "age": 56,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 1.2,
+        "thalachh": 166,
+        "thall": 2,
+        "age": 55,
+        "output": 1
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 0.0,
+        "thalachh": 182,
+        "thall": 2,
+        "age": 41,
+        "output": 1
+    },
+    {
+        "caa": 4,
+        "cp": 2,
+        "oldpeak": 0.0,
+        "thalachh": 173,
+        "thall": 2,
+        "age": 38,
+        "output": 1
+    },
+    {
+        "caa": 4,
+        "cp": 2,
+        "oldpeak": 0.0,
+        "thalachh": 173,
+        "thall": 2,
+        "age": 38,
+        "output": 1
+    },
+    {
+        "caa": 3,
+        "cp": 0,
+        "oldpeak": 1.5,
+        "thalachh": 108,
+        "thall": 2,
+        "age": 67,
+        "output": 0
+    },
+    {
+        "caa": 2,
+        "cp": 0,
+        "oldpeak": 2.6,
+        "thalachh": 129,
+        "thall": 3,
+        "age": 67,
+        "output": 0
+    },
+    {
+        "caa": 2,
+        "cp": 0,
+        "oldpeak": 3.6,
+        "thalachh": 160,
+        "thall": 2,
+        "age": 62,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 0,
+        "oldpeak": 1.4,
+        "thalachh": 147,
+        "thall": 3,
+        "age": 63,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 3.1,
+        "thalachh": 155,
+        "thall": 3,
+        "age": 53,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 2,
+        "oldpeak": 0.6,
+        "thalachh": 142,
+        "thall": 1,
+        "age": 56,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 1.0,
+        "thalachh": 168,
+        "thall": 3,
+        "age": 48,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 1.8,
+        "thalachh": 160,
+        "thall": 2,
+        "age": 58,
+        "output": 0
+    },
+    {
+        "caa": 2,
+        "cp": 2,
+        "oldpeak": 3.2,
+        "thalachh": 173,
+        "thall": 3,
+        "age": 58,
+        "output": 0
+    },
+    {
+        "caa": 2,
+        "cp": 0,
+        "oldpeak": 2.4,
+        "thalachh": 132,
+        "thall": 3,
+        "age": 60,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 2.0,
+        "thalachh": 114,
+        "thall": 3,
+        "age": 40,
+        "output": 0
+    },
+    {
+        "caa": 2,
+        "cp": 0,
+        "oldpeak": 1.4,
+        "thalachh": 160,
+        "thall": 3,
+        "age": 60,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.0,
+        "thalachh": 158,
+        "thall": 2,
+        "age": 64,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 2.5,
+        "thalachh": 120,
+        "thall": 3,
+        "age": 43,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 0,
+        "oldpeak": 0.6,
+        "thalachh": 112,
+        "thall": 1,
+        "age": 57,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 0,
+        "oldpeak": 1.2,
+        "thalachh": 132,
+        "thall": 3,
+        "age": 55,
+        "output": 0
+    },
+    {
+        "caa": 3,
+        "cp": 0,
+        "oldpeak": 1.0,
+        "thalachh": 114,
+        "thall": 3,
+        "age": 65,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.0,
+        "thalachh": 169,
+        "thall": 2,
+        "age": 61,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 2,
+        "oldpeak": 2.5,
+        "thalachh": 165,
+        "thall": 3,
+        "age": 58,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 2.6,
+        "thalachh": 128,
+        "thall": 3,
+        "age": 50,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 0,
+        "oldpeak": 0.0,
+        "thalachh": 153,
+        "thall": 2,
+        "age": 44,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 0,
+        "oldpeak": 1.4,
+        "thalachh": 144,
+        "thall": 3,
+        "age": 60,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 0,
+        "oldpeak": 2.2,
+        "thalachh": 109,
+        "thall": 3,
+        "age": 54,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 2,
+        "oldpeak": 0.6,
+        "thalachh": 163,
+        "thall": 3,
+        "age": 50,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.0,
+        "thalachh": 158,
+        "thall": 3,
+        "age": 41,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 1.2,
+        "thalachh": 142,
+        "thall": 3,
+        "age": 51,
+        "output": 0
+    },
+    {
+        "caa": 3,
+        "cp": 0,
+        "oldpeak": 2.2,
+        "thalachh": 131,
+        "thall": 3,
+        "age": 58,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 0,
+        "oldpeak": 1.4,
+        "thalachh": 113,
+        "thall": 3,
+        "age": 54,
+        "output": 0
+    },
+    {
+        "caa": 2,
+        "cp": 0,
+        "oldpeak": 2.8,
+        "thalachh": 142,
+        "thall": 3,
+        "age": 60,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 3.0,
+        "thalachh": 155,
+        "thall": 2,
+        "age": 60,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 3.4,
+        "thalachh": 140,
+        "thall": 3,
+        "age": 59,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 3.6,
+        "thalachh": 147,
+        "thall": 2,
+        "age": 46,
+        "output": 0
+    },
+    {
+        "caa": 2,
+        "cp": 0,
+        "oldpeak": 0.2,
+        "thalachh": 163,
+        "thall": 3,
+        "age": 67,
+        "output": 0
+    },
+    {
+        "caa": 2,
+        "cp": 0,
+        "oldpeak": 1.8,
+        "thalachh": 99,
+        "thall": 3,
+        "age": 62,
+        "output": 0
+    },
+    {
+        "caa": 2,
+        "cp": 0,
+        "oldpeak": 0.6,
+        "thalachh": 158,
+        "thall": 1,
+        "age": 65,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 0,
+        "oldpeak": 0.0,
+        "thalachh": 177,
+        "thall": 2,
+        "age": 44,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 0,
+        "oldpeak": 2.8,
+        "thalachh": 141,
+        "thall": 3,
+        "age": 60,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.8,
+        "thalachh": 111,
+        "thall": 3,
+        "age": 58,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 1.6,
+        "thalachh": 150,
+        "thall": 3,
+        "age": 68,
+        "output": 0
+    },
+    {
+        "caa": 3,
+        "cp": 0,
+        "oldpeak": 6.2,
+        "thalachh": 145,
+        "thall": 3,
+        "age": 62,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 0,
+        "oldpeak": 0.0,
+        "thalachh": 161,
+        "thall": 3,
+        "age": 52,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 0,
+        "oldpeak": 1.2,
+        "thalachh": 142,
+        "thall": 3,
+        "age": 59,
+        "output": 0
+    },
+    {
+        "caa": 2,
+        "cp": 0,
+        "oldpeak": 2.6,
+        "thalachh": 157,
+        "thall": 3,
+        "age": 60,
+        "output": 0
+    },
+    {
+        "caa": 3,
+        "cp": 2,
+        "oldpeak": 2.0,
+        "thalachh": 139,
+        "thall": 3,
+        "age": 49,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 0,
+        "oldpeak": 0.0,
+        "thalachh": 162,
+        "thall": 3,
+        "age": 59,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 2,
+        "oldpeak": 0.4,
+        "thalachh": 150,
+        "thall": 3,
+        "age": 57,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 0,
+        "oldpeak": 3.6,
+        "thalachh": 140,
+        "thall": 3,
+        "age": 61,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 1.2,
+        "thalachh": 140,
+        "thall": 3,
+        "age": 39,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 1.0,
+        "thalachh": 146,
+        "thall": 3,
+        "age": 61,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 0,
+        "oldpeak": 1.2,
+        "thalachh": 144,
+        "thall": 2,
+        "age": 56,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 3.0,
+        "thalachh": 136,
+        "thall": 3,
+        "age": 43,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 2,
+        "oldpeak": 1.2,
+        "thalachh": 97,
+        "thall": 3,
+        "age": 62,
+        "output": 0
+    },
+    {
+        "caa": 3,
+        "cp": 0,
+        "oldpeak": 1.8,
+        "thalachh": 132,
+        "thall": 3,
+        "age": 63,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 0,
+        "oldpeak": 2.8,
+        "thalachh": 127,
+        "thall": 3,
+        "age": 65,
+        "output": 0
+    },
+    {
+        "caa": 2,
+        "cp": 0,
+        "oldpeak": 0.0,
+        "thalachh": 150,
+        "thall": 3,
+        "age": 48,
+        "output": 0
+    },
+    {
+        "caa": 3,
+        "cp": 0,
+        "oldpeak": 4.0,
+        "thalachh": 154,
+        "thall": 3,
+        "age": 63,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 5.6,
+        "thalachh": 111,
+        "thall": 3,
+        "age": 55,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 3,
+        "oldpeak": 1.4,
+        "thalachh": 174,
+        "thall": 2,
+        "age": 65,
+        "output": 0
+    },
+    {
+        "caa": 2,
+        "cp": 0,
+        "oldpeak": 4.0,
+        "thalachh": 133,
+        "thall": 3,
+        "age": 56,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 0,
+        "oldpeak": 2.8,
+        "thalachh": 126,
+        "thall": 3,
+        "age": 54,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 2.6,
+        "thalachh": 125,
+        "thall": 3,
+        "age": 70,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 1,
+        "oldpeak": 1.4,
+        "thalachh": 103,
+        "thall": 3,
+        "age": 62,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 1.6,
+        "thalachh": 130,
+        "thall": 3,
+        "age": 35,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 3,
+        "oldpeak": 0.2,
+        "thalachh": 159,
+        "thall": 3,
+        "age": 59,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 1.8,
+        "thalachh": 131,
+        "thall": 3,
+        "age": 64,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.0,
+        "thalachh": 152,
+        "thall": 2,
+        "age": 47,
+        "output": 0
+    },
+    {
+        "caa": 3,
+        "cp": 0,
+        "oldpeak": 1.0,
+        "thalachh": 124,
+        "thall": 3,
+        "age": 57,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 0,
+        "oldpeak": 0.8,
+        "thalachh": 145,
+        "thall": 3,
+        "age": 55,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 0,
+        "oldpeak": 2.2,
+        "thalachh": 96,
+        "thall": 2,
+        "age": 64,
+        "output": 0
+    },
+    {
+        "caa": 3,
+        "cp": 0,
+        "oldpeak": 2.4,
+        "thalachh": 109,
+        "thall": 2,
+        "age": 70,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 1.6,
+        "thalachh": 173,
+        "thall": 3,
+        "age": 51,
+        "output": 0
+    },
+    {
+        "caa": 2,
+        "cp": 0,
+        "oldpeak": 0.0,
+        "thalachh": 171,
+        "thall": 3,
+        "age": 58,
+        "output": 0
+    },
+    {
+        "caa": 2,
+        "cp": 0,
+        "oldpeak": 1.2,
+        "thalachh": 170,
+        "thall": 3,
+        "age": 60,
+        "output": 0
+    },
+    {
+        "caa": 3,
+        "cp": 0,
+        "oldpeak": 0.0,
+        "thalachh": 162,
+        "thall": 2,
+        "age": 77,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.0,
+        "thalachh": 156,
+        "thall": 3,
+        "age": 35,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 2,
+        "oldpeak": 2.9,
+        "thalachh": 112,
+        "thall": 3,
+        "age": 70,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.0,
+        "thalachh": 143,
+        "thall": 2,
+        "age": 59,
+        "output": 0
+    },
+    {
+        "caa": 2,
+        "cp": 0,
+        "oldpeak": 2.0,
+        "thalachh": 132,
+        "thall": 1,
+        "age": 64,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 0,
+        "oldpeak": 1.2,
+        "thalachh": 88,
+        "thall": 3,
+        "age": 57,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 0,
+        "oldpeak": 2.1,
+        "thalachh": 105,
+        "thall": 1,
+        "age": 56,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.5,
+        "thalachh": 166,
+        "thall": 3,
+        "age": 48,
+        "output": 0
+    },
+    {
+        "caa": 2,
+        "cp": 0,
+        "oldpeak": 1.9,
+        "thalachh": 150,
+        "thall": 3,
+        "age": 56,
+        "output": 0
+    },
+    {
+        "caa": 3,
+        "cp": 1,
+        "oldpeak": 0.0,
+        "thalachh": 120,
+        "thall": 1,
+        "age": 66,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 1,
+        "oldpeak": 0.0,
+        "thalachh": 195,
+        "thall": 3,
+        "age": 54,
+        "output": 0
+    },
+    {
+        "caa": 3,
+        "cp": 2,
+        "oldpeak": 2.0,
+        "thalachh": 146,
+        "thall": 3,
+        "age": 69,
+        "output": 0
+    },
+    {
+        "caa": 3,
+        "cp": 0,
+        "oldpeak": 4.2,
+        "thalachh": 122,
+        "thall": 3,
+        "age": 51,
+        "output": 0
+    },
+    {
+        "caa": 4,
+        "cp": 0,
+        "oldpeak": 0.1,
+        "thalachh": 143,
+        "thall": 3,
+        "age": 43,
+        "output": 0
+    },
+    {
+        "caa": 3,
+        "cp": 0,
+        "oldpeak": 1.9,
+        "thalachh": 106,
+        "thall": 2,
+        "age": 62,
+        "output": 0
+    },
+    {
+        "caa": 2,
+        "cp": 0,
+        "oldpeak": 0.9,
+        "thalachh": 125,
+        "thall": 2,
+        "age": 67,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 3,
+        "oldpeak": 0.0,
+        "thalachh": 125,
+        "thall": 2,
+        "age": 59,
+        "output": 0
+    },
+    {
+        "caa": 3,
+        "cp": 0,
+        "oldpeak": 0.0,
+        "thalachh": 147,
+        "thall": 3,
+        "age": 45,
+        "output": 0
+    },
+    {
+        "caa": 2,
+        "cp": 0,
+        "oldpeak": 3.0,
+        "thalachh": 130,
+        "thall": 3,
+        "age": 58,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.9,
+        "thalachh": 126,
+        "thall": 3,
+        "age": 50,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 1.4,
+        "thalachh": 154,
+        "thall": 2,
+        "age": 62,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 3,
+        "oldpeak": 3.8,
+        "thalachh": 182,
+        "thall": 3,
+        "age": 38,
+        "output": 0
+    },
+    {
+        "caa": 2,
+        "cp": 0,
+        "oldpeak": 1.0,
+        "thalachh": 165,
+        "thall": 3,
+        "age": 66,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 0,
+        "oldpeak": 0.0,
+        "thalachh": 160,
+        "thall": 2,
+        "age": 52,
+        "output": 0
+    },
+    {
+        "caa": 2,
+        "cp": 0,
+        "oldpeak": 2.0,
+        "thalachh": 95,
+        "thall": 3,
+        "age": 53,
+        "output": 0
+    },
+    {
+        "caa": 2,
+        "cp": 0,
+        "oldpeak": 1.8,
+        "thalachh": 169,
+        "thall": 2,
+        "age": 63,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 0,
+        "oldpeak": 0.0,
+        "thalachh": 108,
+        "thall": 2,
+        "age": 54,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 0,
+        "oldpeak": 0.1,
+        "thalachh": 132,
+        "thall": 2,
+        "age": 66,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 3.4,
+        "thalachh": 117,
+        "thall": 2,
+        "age": 55,
+        "output": 0
+    },
+    {
+        "caa": 3,
+        "cp": 2,
+        "oldpeak": 0.8,
+        "thalachh": 126,
+        "thall": 2,
+        "age": 49,
+        "output": 0
+    },
+    {
+        "caa": 2,
+        "cp": 0,
+        "oldpeak": 3.2,
+        "thalachh": 116,
+        "thall": 2,
+        "age": 54,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 1.6,
+        "thalachh": 103,
+        "thall": 3,
+        "age": 56,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.8,
+        "thalachh": 144,
+        "thall": 3,
+        "age": 46,
+        "output": 0
+    },
+    {
+        "caa": 2,
+        "cp": 3,
+        "oldpeak": 2.6,
+        "thalachh": 145,
+        "thall": 2,
+        "age": 61,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 1.0,
+        "thalachh": 71,
+        "thall": 2,
+        "age": 67,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 0,
+        "oldpeak": 0.1,
+        "thalachh": 156,
+        "thall": 3,
+        "age": 58,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 0,
+        "oldpeak": 1.0,
+        "thalachh": 118,
+        "thall": 2,
+        "age": 47,
+        "output": 0
+    },
+    {
+        "caa": 2,
+        "cp": 0,
+        "oldpeak": 1.0,
+        "thalachh": 168,
+        "thall": 3,
+        "age": 52,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 0,
+        "oldpeak": 2.0,
+        "thalachh": 105,
+        "thall": 3,
+        "age": 58,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 1,
+        "oldpeak": 0.3,
+        "thalachh": 141,
+        "thall": 3,
+        "age": 57,
+        "output": 0
+    },
+    {
+        "caa": 2,
+        "cp": 1,
+        "oldpeak": 0.0,
+        "thalachh": 152,
+        "thall": 2,
+        "age": 58,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 0,
+        "oldpeak": 3.6,
+        "thalachh": 125,
+        "thall": 2,
+        "age": 61,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 1.8,
+        "thalachh": 125,
+        "thall": 1,
+        "age": 42,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 1.0,
+        "thalachh": 156,
+        "thall": 0,
+        "age": 52,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 2,
+        "oldpeak": 2.2,
+        "thalachh": 134,
+        "thall": 1,
+        "age": 59,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.0,
+        "thalachh": 181,
+        "thall": 3,
+        "age": 40,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 0,
+        "oldpeak": 1.9,
+        "thalachh": 138,
+        "thall": 3,
+        "age": 61,
+        "output": 0
+    },
+    {
+        "caa": 2,
+        "cp": 0,
+        "oldpeak": 1.8,
+        "thalachh": 120,
+        "thall": 3,
+        "age": 46,
+        "output": 0
+    },
+    {
+        "caa": 2,
+        "cp": 3,
+        "oldpeak": 0.8,
+        "thalachh": 162,
+        "thall": 2,
+        "age": 59,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 1,
+        "oldpeak": 0.0,
+        "thalachh": 164,
+        "thall": 2,
+        "age": 57,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 0,
+        "oldpeak": 3.0,
+        "thalachh": 143,
+        "thall": 3,
+        "age": 57,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 0,
+        "oldpeak": 2.0,
+        "thalachh": 130,
+        "thall": 3,
+        "age": 55,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 0,
+        "oldpeak": 0.0,
+        "thalachh": 161,
+        "thall": 3,
+        "age": 61,
+        "output": 0
+    },
+    {
+        "caa": 3,
+        "cp": 0,
+        "oldpeak": 4.4,
+        "thalachh": 140,
+        "thall": 1,
+        "age": 58,
+        "output": 0
+    },
+    {
+        "caa": 2,
+        "cp": 0,
+        "oldpeak": 2.8,
+        "thalachh": 146,
+        "thall": 1,
+        "age": 58,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 2,
+        "oldpeak": 0.8,
+        "thalachh": 150,
+        "thall": 3,
+        "age": 67,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 2.8,
+        "thalachh": 144,
+        "thall": 1,
+        "age": 44,
+        "output": 0
+    },
+    {
+        "caa": 2,
+        "cp": 0,
+        "oldpeak": 4.0,
+        "thalachh": 144,
+        "thall": 3,
+        "age": 63,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.0,
+        "thalachh": 136,
+        "thall": 2,
+        "age": 63,
+        "output": 0
+    },
+    {
+        "caa": 2,
+        "cp": 0,
+        "oldpeak": 1.0,
+        "thalachh": 90,
+        "thall": 1,
+        "age": 59,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 0,
+        "oldpeak": 0.2,
+        "thalachh": 123,
+        "thall": 3,
+        "age": 57,
+        "output": 0
+    },
+    {
+        "caa": 0,
+        "cp": 3,
+        "oldpeak": 1.2,
+        "thalachh": 132,
+        "thall": 3,
+        "age": 45,
+        "output": 0
+    },
+    {
+        "caa": 2,
+        "cp": 0,
+        "oldpeak": 3.4,
+        "thalachh": 141,
+        "thall": 3,
+        "age": 68,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 0,
+        "oldpeak": 1.2,
+        "thalachh": 115,
+        "thall": 3,
+        "age": 57,
+        "output": 0
+    },
+    {
+        "caa": 1,
+        "cp": 1,
+        "oldpeak": 0.0,
+        "thalachh": 174,
+        "thall": 2,
+        "age": 57,
+        "output": 0
+    }
+]

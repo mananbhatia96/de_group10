@@ -21,7 +21,7 @@ class HeartAttackPredictor:
                 file_path = os.path.join(model_repo, "heart_attack_model.pkl")  # Update the model name
                 self.model = joblib.load(file_path)
             except KeyError:
-                logging.error("MODEL_REPO is undefined. Loading model from local 'heart_attack_model.pkl'.")
+                logging.error("MODEL_REPO is undefined. Loading model from local")
                 self.model = joblib.load('heart_attack_model.pkl')
 
         # Convert JSON input to DataFrame

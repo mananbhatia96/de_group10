@@ -935,7 +935,9 @@ root:
         parameterType: STRING
       thresholds_dict_str:
         parameterType: STRING
-      trainset_filename:  # Add this line
+      trainset_filename:  
+        parameterType: STRING
+      testset_filename:   # Add this line
         parameterType: STRING
   outputDefinitions:
     artifacts:

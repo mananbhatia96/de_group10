@@ -935,6 +935,8 @@ root:
         parameterType: STRING
       thresholds_dict_str:
         parameterType: STRING
+      trainset_filename:  # Add this line
+        parameterType: STRING
   outputDefinitions:
     artifacts:
       lr-model-evaluation-kpi:

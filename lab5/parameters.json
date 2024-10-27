@@ -1,0 +1,7 @@
+{
+  "project_id": "core-period-434911-u6",
+  "data_bucket": "data_assignment_group10",
+  "trainset_filename": "training_set.csv",
+  "testset_filename": "prediction_set.csv", 
+  "model_repo": "model_assignment_group10"
+}

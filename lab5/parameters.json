@@ -4,5 +4,4 @@
   "trainset_filename": "training_set.csv",
   "testset_filename": "prediction_set.csv", 
   "model_repo": "gs://model_assignment_group10"
-  "thresholds_dict_str": "{\"roc\": 0.8}"
 }

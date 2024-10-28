@@ -19,11 +19,11 @@ def train_mlp(project_id, feature_path, model_repo, metrics_path):
     logging.info(df.columns)
 
     # split into input (X) and output (Y) variables
-    X = df.loc[:, ['ntp', 'age', 'bmi', 'dbp', 'dpf', 'pgc', 'si', 'tsft']].values
-    Y = df.loc[:, ['class']].values
+    X = df.loc[:, ['age', 'cp', 'thalachh', 'oldpeak', 'caa', 'thall']].values
+    Y = df.loc[:, ['output']].values
     # define model
     model = Sequential()
-    model.add(Dense(12, input_dim=8, activation='relu'))
+    model.add(Dense(12, input_dim=6, activation='relu'))
     model.add(Dense(8, activation='relu'))
     model.add(Dense(1, activation='sigmoid'))
     # compile model

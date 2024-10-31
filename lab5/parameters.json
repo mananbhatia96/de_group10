@@ -1,0 +1,7 @@
+{
+        "project_id": "core-period-434911-u6",  
+        "data_bucket": "data_assignment_group10",  
+        "dataset_uri":"gs://data_assignment_group10/training_set.csv",
+        "model_repo":"model_assignment_group10",  
+        "thresholds_dict_str":"{\"roc\": 0.8}"
+    }
